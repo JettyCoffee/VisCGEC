@@ -1,0 +1,110 @@
+{
+  "path": "2618.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我喜欢的养生方式我平时运动的比较的，所以比其他的人累的也很的。",
+      "predict_sentence": "我喜欢的养生方式我平时运动的比较的，所以比其他的人累得也很的。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "那样的话，我一般听音乐。",
+      "predict_sentence": "那样的话，我就一般听音乐。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我从小时候开始学费了芭蕾舞。",
+      "predict_sentence": "我从小时候就开始学芭蕾舞了。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "当时那里的环境也不是很好。",
+      "predict_sentence": "当时那里的环境也不是很好。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "因为我被逃了发表会的主人公。",
+      "predict_sentence": "因为我成了发表会的主人公。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "一开始资得主人公提简单的人，尽力也没有那么大吧。",
+      "predict_sentence": "一开始主角是个主人公提简单的人，尽力也没有那么大吧。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "一直有这样的想法。",
+      "predict_sentence": "我一向有这样的想法。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "但是被速主人公以后，我差不外每天要十二个树时的排练，天天很老师批评。",
+      "predict_sentence": "但是被选主人公以后，我差不多每天要十二个小时的排练，天天很老师批评。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "我开始累了。",
+      "predict_sentence": "我开始累了。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "有时候，回家后天天哭什么的经常发生了这种事。",
+      "predict_sentence": "有时候，回家后天天哭什么的经常发生这种事。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "从那个时候开始听了音乐。",
+      "predict_sentence": "从那个时候开始听音乐。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我听的都是挺安静的歌曲。",
+      "predict_sentence": "我听的都是挺安静的歌曲。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "到听音乐文前一直看在心里有问的感觉，听安静的歌曲以后没有那种感觉了。",
+      "predict_sentence": "到听音乐文前一直想在心里有问的感觉，听安静的歌曲以后没有那种感觉了。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "所以我还是觉得压力很大的时候听音来最好的。",
+      "predict_sentence": "所以我还是觉得压力很大的时候听音乐是最好的。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "如果你们也有压力很大的时候，一边听音乐一边散步也可以，一边工作一边听音乐也可以。",
+      "predict_sentence": "如果你们也有压力很大的时候，一边听音乐一边散步也可以，一边工作一边听音乐也可以。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "反正这样可以减少你的压力。",
+      "predict_sentence": "反正这样可以减轻你的压力。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "我那个时候鹅如果没有音外的存在，我应该没成功发表会吧。",
+      "predict_sentence": "我那个时候鹅如果没有音外的存在，我应该没成功发表会吧。"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "到那样细度，对我承说音乐是很重要的存在。",
+      "predict_sentence": "到那样细度，对我而言音乐是很重要的存在。"
+    },
+    {
+      "sentence_id": 18,
+      "source_sentence": "成功发表会以后，很为人夸我的表演。",
+      "predict_sentence": "成功发表会以后，很被人夸我的表演。"
+    },
+    {
+      "sentence_id": 19,
+      "source_sentence": "那么严的老师也旁我了。",
+      "predict_sentence": "那么严的老师也旁观我了。"
+    },
+    {
+      "sentence_id": 20,
+      "source_sentence": "所",
+      "predict_sentence": "所以"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "path": "2436.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "标准语我与购物新方式当今社会，购物方式不断发展，新的技术和创意层出不穷。",
+      "predict_sentence": "标准语我与购物新方式当今社会，购物方式不断发展，新的技术和创意层出不穷。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我最近经历的新购物方式之就是直播购物。",
+      "predict_sentence": "我最近经历的新购物方式就是直播购物。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "画插购物是直播与网购相结合的方式，通常原创化标准直播平台上展示商品，与观众实时互动。",
+      "predict_sentence": "画插购物是直播与网购相结合的方式，通常在标准化直播平台上展示商品，与观众实时互动。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "这种方式让我有了新的购物体验，主要体现在以下几个方面。",
+      "predict_sentence": "这种方式让我有了新的购物体验，主要体现在以下几个方面。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "首先直播购物让购物更加生动有趣。",
+      "predict_sentence": "首先直播购物让购物更加生动有趣。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "创作普通过生动的语言和丰富的表情展示产品，能领受引我的注意力，对产品产生更大的兴趣。",
+      "predict_sentence": "创作普通过生动的语言和丰富的表情展示产品，能领受引我的注意力，对产品产生更大的兴趣。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "与传统网购相比，通过直播的即时互动，可以实时提问，了解产品的细节和使用效果。",
+      "predict_sentence": "与传统网购相比，观众通过直播的即时互动，可以实时提问，了解产品的细节和使用效果。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "其次，画播购物往往伴随着限时打折和专属优惠，让人产生更快做出购买决定的紧迫感。",
+      "predict_sentence": "其次，画播购物往往伴随着限时打折和专属优惠，让人产生更快做出购买决定的紧迫感。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "直播过程中，主播不断提醒双会优惠时限的气氛，让人感受到购物的刺激。",
+      "predict_sentence": "直播过程中，主播不断提醒双会优惠时限，让人感受到购物的刺激。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "最后，直播购物让我们更了解品牌和产品背后的故事。",
+      "predict_sentence": "最后，直播购物让我们更了解品牌和产品背后的故事。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "通过原创化将你的介绍，我们了解了产品的来源、制作过程和使用技巧，这些",
+      "predict_sentence": "通过原创化将你的介绍，我们了解了产品的来源、制作过程和使用技巧，这些"
+    }
+  ]
+}

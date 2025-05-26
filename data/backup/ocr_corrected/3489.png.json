@@ -1,0 +1,65 @@
+{
+  "path": "3489.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "全欣宜我的理想职业我的理想职业是成为一个优秀的汉语教体我觉得汉语是一门有趣的语言",
+      "predict_sentence": "全心以我的理想职业我的理想职业是成为一个优秀的汉语教师我觉得汉语是一门有趣的语言"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "声调、发音语法学都给了我兴趣。",
+      "predict_sentence": "声调、发音语法学都引起了我的兴趣。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "通过学习汉语，对口了解中国文化，也可以和更多的人交流。",
+      "predict_sentence": "通过学习汉语，深入了解中国文化，也可以和更多的人交流。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我从语中开始能对学习语言很感兴趣了，特别是汉语和韩语，所以我希望自己的能教韩国人汉语",
+      "predict_sentence": "我从那时开始能对学习语言很感兴趣了，特别是汉语和韩语，所以我希望自己的能教韩国人汉语"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "帮助他们喜欢上这门语言。",
+      "predict_sentence": "帮助他们喜欢上这门语言。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "为了学现我的梦想，我一直在努力学习汉语想让自己的语言能力更好，同时，我也在学习教学方法",
+      "predict_sentence": "为了实现我的梦想，我一直在努力学习汉语想让自己的语言能力更好，同时，我也在学习教学方法"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "了解怎么数得更清楚、更有趣。",
+      "predict_sentence": "了解怎么算得更清楚、更有趣。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "而且我以前在中国当过韩语老师，在学规这个目标的过程中，我曾经有过数中留学生韩语的经历。",
+      "predict_sentence": "而且我以前在中国当过韩语老师，在学习这个目标的过程中，我曾经有过教数中留学生韩语的经历。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "这段经历让我感到非常幸福和自豪。",
+      "predict_sentence": "这段经历让我感到非常幸福和自豪。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "到到学生从一开始对韩语一无所知，到最后能够用韩语表达自己的想法，我觉得自己的努力有了意义。",
+      "predict_sentence": "到得学生从一开始对韩语一无所知，到最后能够用韩语表达自己的想法，我觉得自己的努力有了意义。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "特别是当学生告诉我，他们因为我的课更喜欢韩语时",
+      "predict_sentence": "特别是当学生告诉我，他们因为我的课更喜欢汉语时"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我的内心充满了成就感、这段经历也让我更加确定了成为老师是我想走的路。",
+      "predict_sentence": "我的内心充满了成就感、这段经历也让我更加确定了成为老师是我该走的路。"
+    }
+  ]
+}

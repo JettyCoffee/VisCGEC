@@ -1,0 +1,80 @@
+{
+  "path": "2199.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上面对压力在我们的生活会发生很多事情面对很",
+      "predict_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上面对压力在我们的生活中会发生很多事情面对很"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "多压力我者困难但并不是每个都能避免这些问题。",
+      "predict_sentence": "多压力我者困难但并不是每个都能避免这些问题。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "现在我最大的压力就是在中国举习的压力。",
+      "predict_sentence": "现在我最大的压力就是在中国练习的压力。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我已经来中国留学大概三个月了所以",
+      "predict_sentence": "我来中国留学大概已经三个月了所以"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "申觉的自己有点习惯在这里生活了此如跟中国人耶天中国菜交新的朋友这些都没问题。",
+      "predict_sentence": "申觉的自己有点习惯在这里生活了此如跟中国人耶天中国菜交新的朋友这些都没问题。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "但如果说到学习的压力对帮来说很重。",
+      "predict_sentence": "但如果说到学习的压力对中国帮来说很重。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "因为我为我们珀同学的汉悟水平很好说得但流利。",
+      "predict_sentence": "因为我以为我们班同学的汉语水平很好说得非常流利。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "而且每次做续习武者做作业的时候他们做得很快大部分也得到萌分。",
+      "predict_sentence": "而且每次做习武者做作业的时候他们做得很快大部分也得到满分。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "所以这躺是我为什么有很大的压力。",
+      "predict_sentence": "所以这让我为什么有很大的压力。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "但是当我遇到这些压力。",
+      "predict_sentence": "但是当我遇到这些压力时。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "他有自己的解压右式就是“明确自己的目标。",
+      "predict_sentence": "他有自己的解压方式就是“明确自己的目标。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "比如每个星期一到星期五晚上我要去图节馆挨书、复习做业。",
+      "predict_sentence": "比如每个星期一到星期五晚上我要去图书馆挨着书、复习作业。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "如果感觉自己的心情不好压力太太了受不了的话我会打家人武者朋友跟他们沟通一起指出白路一起解决问题。",
+      "predict_sentence": "如果感觉自己的心情不好压力太大了受不了的话我会打家人武者朋友跟他们沟通一起指出迷途一起解决问题。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "如果我遇到的事情不能跟别人说我会让自己冷静一下慢慢的解决问题面对困难。",
+      "predict_sentence": "如果我遇到的事情不能跟别人说我会让自己冷静一下慢慢地解决问题面对困难。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "这些就是我解轻压力的方式我会多给自己加油遇到困难的时候我一定会坚持下去定不会放奔吃一堑长一智吧！",
+      "predict_sentence": "这些就是我减轻压力的方式我会多给自己加油遇到困难的时候我一定会坚持下去定不会放奔吃一堑长一智吧！"
+    }
+  ]
+}

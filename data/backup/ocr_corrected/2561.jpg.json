@@ -1,0 +1,105 @@
+{
+  "path": "2561.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我的理想和压力我是个急性子的人。",
+      "predict_sentence": "我的理想和压力我是个急性子的人。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "所以我想超高很快我们人的水平。",
+      "predict_sentence": "所以我想超越很快我们人的水平。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "果然如此，我应做到有压力。",
+      "predict_sentence": "果然如此，我应该感受到压力。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "其买以前我住在韩国的时候，我是一个乐我的人。",
+      "predict_sentence": "其实以前我住在韩国的时候，我是一个乐我的人。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "因为我每天和朋友们一起玩比如说去你人，看电影，聊天等等。",
+      "predict_sentence": "因为我每天和朋友们一起玩比如说去打球，看电影，聊天等等。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "但是我开始学汉语，我军天认真学习。",
+      "predict_sentence": "但是我开始学汉语，我每天认真学习。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "我非常瘦倦可是我的梦想着去中国留学，还有交中国朋友。",
+      "predict_sentence": "我非常疲倦可是我的梦想是去中国留学，还有交中国朋友。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "从去年几月起学习汉语我得到3H5K五反。",
+      "predict_sentence": "从去年几月起学习汉语我得到3H5K五返。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "所以现在我可以学习在华东师范大学。",
+      "predict_sentence": "所以现在我在华东师范大学学习。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "我收到3合起的Xuxi的时候真的开心。",
+      "predict_sentence": "我收到3合一起的Xuxi的时候真的开心。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "现在我的第一次中国生活、上海生活。",
+      "predict_sentence": "现在是我第一次在中国生活、上海生活。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我还在不能很流利地说汉语，写汉字。",
+      "predict_sentence": "我还是不能很流利地说汉语，写汉字。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "本来我因为这样的情说，所以压力很大。",
+      "predict_sentence": "本来我因为这样说，所以压力很大。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "但是想起来我刚才来上海，学汉语也一年的。",
+      "predict_sentence": "但是想起我刚才来上海，学汉语也一年了。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "这样的话，当然总的来说，我改变3我的想法。",
+      "predict_sentence": "这样的话，当然总的来说，我改变我的想法。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "我日劲认识名种各样的国家的同学们，很好的老师。",
+      "predict_sentence": "我认识各种各样国家的日劲的同学们，他们是很好的老师。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "我觉得只真学习，一定要我的汉语越来越好。",
+      "predict_sentence": "我觉得只要认真学习，我的汉语一定会越来越好。"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "所以不要压力，就轻松一下。",
+      "predict_sentence": "所以不要有压力，要放松。"
+    },
+    {
+      "sentence_id": 18,
+      "source_sentence": "我也可以享受在上海的生活。",
+      "predict_sentence": "我也很享受在上海的生活。"
+    },
+    {
+      "sentence_id": 19,
+      "source_sentence": "我知道，留学的经历对我来说非常宝贵。",
+      "predict_sentence": "我知道，留学的经历对我来说非常宝贵。"
+    }
+  ]
+}

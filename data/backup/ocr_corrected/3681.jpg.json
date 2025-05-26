@@ -1,0 +1,105 @@
+{
+  "path": "3681.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我的成长故事我来中国快2年了。",
+      "predict_sentence": "我的成长故事我来中国快2年了。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我刚来中国的时候有很多困难才，此的也不习惯，说话也说不生来听中听不懂要等。",
+      "predict_sentence": "我刚来中国的时候有很多困难，吃的也不习惯，说话也说不出来中文听不懂要等。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "天天大难受了。",
+      "predict_sentence": "天天大难受。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "这样生活中我交了一个生团朋友。",
+      "predict_sentence": "这样生活中我交了一个同龄朋友。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "她对我非常热情了。",
+      "predict_sentence": "她对我非常热情。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "她买装买好此的东西，带我出去玩，教我中文等，很多事都她帮我了。",
+      "predict_sentence": "她买装买好次的东西，带我出去玩，教我中文等，很多事都她帮我了。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "但是因为我的中文大平使苦，跑地沟通的时候有很多困难了。",
+      "predict_sentence": "但是因为我的中文大瓶使苦，跑地沟通的时候有很多困难了。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "每天美用副义机沟通了。",
+      "predict_sentence": "每天需要用翻译机沟通。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "这时我决定了“我妈妈学习中文！",
+      "predict_sentence": "这时我决定了“我要学习中文！"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "”。",
+      "predict_sentence": "。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我每天看单词，看中国的新闻，看中了。",
+      "predict_sentence": "我每天看单词，看中国的新闻，看中文。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "而且每天跑中国朋友打电话，复习会送了。",
+      "predict_sentence": "而且每天跑中国朋友打电话，复习会松了。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "我这样努力了。",
+      "predict_sentence": "我这样努力。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "后来，我现在跑中国人用中文沟通时保没有大的问题，而且听力水干提高了。",
+      "predict_sentence": "后来，我现在跟中国人用中文沟通时就没有大的问题，而且听力水平提高了。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "看中国电视也没有问题。",
+      "predict_sentence": "看中国电视也没有问题。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "我发现这样变化时非常丰填。",
+      "predict_sentence": "我发现这样的变化时非常震惊。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "也会越来越懂中国的文代所以中国生活也越来越开心。",
+      "predict_sentence": "也会越来越懂中国的文代所以中国生活也越来越开心。"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "但我的中文还不够，写字时还有一些问题。",
+      "predict_sentence": "但我的中文还不够好，写字时还有一些问题。"
+    },
+    {
+      "sentence_id": 18,
+      "source_sentence": "所以我还在努力牛！",
+      "predict_sentence": "所以我还在努力呐！"
+    },
+    {
+      "sentence_id": 19,
+      "source_sentence": "我会一直努力学习中文了希望我的奥中文越来越好！",
+      "predict_sentence": "我会一直努力学习中文了希望我的奥中文越来越好！"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "2142.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "李睿朗韩国数字生活已经成为我们生活的一部分了，我已经习惯了生活在数字时代。",
+      "predict_sentence": "李睿朗韩国数字生活已经成为我们生活的一部分了，我已经习惯了生活在数字时代。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "现在和以前对比来说，现在我们的生活非常方便。",
+      "predict_sentence": "现在和以前相比，现在我们的生活非常方便。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "首先，随着导航功能的发展，很多人要去不认识的地方时，会用手机上的导航吧。",
+      "predict_sentence": "首先，随着导航功能的发展，很多人要去不认识的地方时，会用手机上的导航吧。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "用为我是十个路青，所以去不认路的时继经常会迷路。",
+      "predict_sentence": "我是一个十岁青少年，所以去不认路的时间经常会迷路。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我让小学的时候，还没有智能手机，所以当不知道要怎么走的时候，只能踢防生人问路",
+      "predict_sentence": "我念小学的时候，还没有智能手机，所以当不知道要怎么走的时候，只能踢防生人问路"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "但是现在完全不需要这样了。",
+      "predict_sentence": "但是现在完全不需要这样了。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "其次，数字生活也带来了吃很多美食的机会。",
+      "predict_sentence": "其次，数字生活也带来了吃很多美食的机会。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "因为之前没有跟太充电一样时，所以很多人想找一个美食店也很不容易找。",
+      "predict_sentence": "因为之前没有跟团充电一样时，所以很多人想找一个美食店也很不容易找。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "只能朋友武家人的推荐下，去吃美食店。",
+      "predict_sentence": "只能在朋友武家人的推荐下，去吃美食店。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "但现在不一样了，只要点开哪就可以找附近有什么好吃的东西，而且还可以送到门口。",
+      "predict_sentence": "但现在不一样了，只要点开那就可以找附近有什么好吃的东西，而且还可以送到门口。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "现在的数字生活对我来读太方便了。",
+      "predict_sentence": "现在的数字生活对我来说太方便了。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "总之，我低满意生活在数字时代，它有着多种多样的尤点。",
+      "predict_sentence": "总之，我对自己生活在数字时代不满意，它有着多种多样的缺点。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "我希望未来的生活会更加方使，我假期待未来我们的数字时代！",
+      "predict_sentence": "我希望未来的生活会更加方便，我期待着未来我们的数字时代！"
+    }
+  ]
+}

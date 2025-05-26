@@ -1,0 +1,60 @@
+{
+  "path": "2599.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "在我们东塘寨、这片古老而神秘的土地上养生不仅仅成为了人们日常生活中它不可少的一部分",
+      "predict_sentence": "在我们东塘寨、这片古老而神秘的土地上养生不仅仅成为了人们日常生活中必不可少的一部分"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "更是一种独特的文化现像。",
+      "predict_sentence": "更是一种独特的文化现象。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "在这片充满了生机和活力的环境中，人们都追求着身么都重要，所以通过各种各样的方式来保持身体健康。",
+      "predict_sentence": "在这片充满了生机和活力的环境中，人们都追求着身么都重要，所以通过各种各样的方式来保持身体健康。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "在束埔寨，流行的养生方式等多种多样。",
+      "predict_sentence": "在柬埔寨，流行的养生方式等多种多样。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "每一种方式不仅在表面上的行为或习惯，更是有它们的背景历史文化。",
+      "predict_sentence": "每一种方式不仅体现为表面上的行为或习惯，更是有它们的背景历史文化。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "盖首先，次食养生是人们最重视的方式之一。",
+      "predict_sentence": "盖首先，食物养生是人们最重视的方式之一。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "我们认为《孙药不如食人”因此在我们的每一次波都有很多保养的食制品来养身体。",
+      "predict_sentence": "我们认为“药不如食人”因此在我们的每一次餐点都有很多保养的食制品来养身体。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "就拿我家来说吧，我们都会吃新自的乐西然后饭后都会吃水果因为水果不仅是让我们身体健康还会帮到消化。",
+      "predict_sentence": "就拿我家来说吧，我们都会吃新的乐西然后饭后都会吃水果因为水果不仅是让我们身体健康还会帮助消化。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "其次，运动养生也是一个重要的方式。",
+      "predict_sentence": "其次，运动养生也是一个重要的方式。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "人们喜欢的运动有散步，跑步这两个是在我们国家最流行的养生方式。",
+      "predict_sentence": "人们喜欢的运动有散步，跑步，这两个是在我们国家最流行的养生方式。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我们都会在早上和下午去户外活动，这些活动可以让人们带来了很多的快乐与健康",
+      "predict_sentence": "我们都会在早上和下午去户外活动，这些活动可以给人们带来很多的快乐与健康"
+    }
+  ]
+}

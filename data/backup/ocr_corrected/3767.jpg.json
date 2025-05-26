@@ -1,0 +1,50 @@
+{
+  "path": "3767.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与空体书店空体书店曾经是我生活中不可或缺的一部分，龙其是在我小学的时圆候。",
+      "predict_sentence": "我与空体书店空体书店曾经是我生活中不可或缺的一部分，尤其是在我小学的时候。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "记得小学时，一开始我并不喜欢看书，但是可能是因为停周都去的原日",
+      "predict_sentence": "记得小学时，一开始我并不喜欢看书，但是可能是因为停周都去的原因"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "到了后面去还是会去找一些自己喜感兴取的书去看。",
+      "predict_sentence": "到了后面去还是会去找一些自己感兴趣的书去看。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "一般都是一些课外签羽，求翻面小说和杂志等能让我放松的书。",
+      "predict_sentence": "一般都是一些课外签名，求翻面小说和杂志等能让我放松的书。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "那时的书店，总是人头攒动，散多着浓厚的文化氛围。",
+      "predict_sentence": "那时的书店，总是人头攒动，散多着浓厚的文化气息。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "但近年来，随着电子书和网络购物的普及，便，价格也更优惠。",
+      "predict_sentence": "但近年来，随着电子书和网络购物的普及，不仅价格也更优惠。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "然而，我依然保留着偶尔去书店的口慢。",
+      "predict_sentence": "然而，我依然保留着偶尔去书店的习惯。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "来中国留学之前我时周虽然不是有个周末都去，但是暂时候我还是去书后看一些课外读书和微小说。",
+      "predict_sentence": "来中国留学之前我时常虽然不是个周末都去，但是有时候我还是去书后看一些课外读书和微小说。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "现在我我觉得去书店看什么自己经不重要了，去书店这个行为有的时候可以给我带来一种放松感。",
+      "predict_sentence": "现在我我觉得去书店看什么自己经不重要了，去书店这个行为有的时候可以给我带来一种放松感。"
+    }
+  ]
+}

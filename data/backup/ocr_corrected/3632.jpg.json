@@ -1,0 +1,75 @@
+{
+  "path": "3632.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与实体书店在这个信息化飞速发展的时代，电子书还亲成为人们阅读的主要方式。",
+      "predict_sentence": "我与实体书店在这个信息化飞速发展的时代，电子书还亲成为人们阅读的主要途径。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "但是，在我心中，实体书店一直占据着不可替代的地位。",
+      "predict_sentence": "但是，在我心中，实体书店一直占据着不可替代的地位。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "那里有我美好的回忆。",
+      "predict_sentence": "那里有我美好的回忆。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "纪得小时候，我妈妈经常带我去我们家附还的实体书店。",
+      "predict_sentence": "记得小时候，我妈妈经常带我去我们家附近的实体书店。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "书店里有各种各样的书，让我很兴奋。",
+      "predict_sentence": "书店里有各种各样的书，这让我很兴奋。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "那时候，我最喜欢看童话故事，每次妈妈都买给我好几本，让我回家看。",
+      "predict_sentence": "那时候，我最喜欢看童话故事，每次妈妈都买好几本给我，让我回家看。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "高中时期，学习压力比较大，但我一看一种词就迅速奥体书店。",
+      "predict_sentence": "高中时期，学习压力比较大，但我一看一种词就迅速去体书店。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "有时候我跟朋友一起有时候我一个人去。",
+      "predict_sentence": "有时候我跟朋友一起去，有时候我一个人去。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "对我来说，逛逛书店也是一种减少压力的方式。",
+      "predict_sentence": "对我来说，逛逛书店也是一种缓解压力的方式。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "今年九月我来到了上海。",
+      "predict_sentence": "今年九月我来到了上海。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "在这个繁华的城市，我依然保持着诚实体书店的习惯。",
+      "predict_sentence": "在这个繁华的城市，我依然保持着诚实体书店的习惯。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "每当走进书店，那些熟悉的书香让我感到很亲切。",
+      "predict_sentence": "每当走进书店，那熟悉的书香让我感到很亲切。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "尽管电子书带来了便利，但是我还是喜欢去实，体书店。",
+      "predict_sentence": "尽管电子书带来了便利，但是我还是喜欢去实体书店。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "对我来说，实体书店不仅仅是个快书的地方，更是一个陪伴我长大的老朋友。",
+      "predict_sentence": "对我来说，实体书店不仅仅是个卖书的地方，更是一个陪伴我长大的老朋友。"
+    }
+  ]
+}

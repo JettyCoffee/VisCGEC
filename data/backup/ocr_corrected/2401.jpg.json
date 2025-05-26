@@ -1,0 +1,50 @@
+{
+  "path": "2401.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我的压力我来中国以前我跟父母很多考虚因为爸妈非常操心就是我一个人在中国如果",
+      "predict_sentence": "我的压力我来中国以前我跟父母很多考虑因为爸妈非常操心就是我一个人在中国如果"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我那怎么办呢那时候我很理解他们但是",
+      "predict_sentence": "我那时候怎么办呢那时候我很理解他们但是"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我解汝了去中国书我要扮者爸妈也相信我的我来到中国的时候就遇到很多问题那就是[UNK]学习[UNK]这",
+      "predict_sentence": "我解释了去中国书我要扮着爸妈也相信我的我来到中国的时候就遇到很多问题那就是[UNK]学习[UNK]这"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "事我那压力我跟学习有压力太大了因为",
+      "predict_sentence": "是我那压力我跟学习压力太大了因为"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我在学习的时候有一些老师说的话我听不懂我不会答案问题那事让我很幸苦不仅是学习的间题我的压力还有",
+      "predict_sentence": "我在学习的时候有一些老师说的话我听不懂我不会答案问题那事让我很辛苦不仅是学习的问题我的压力还有"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "[UNK]生活[UNK]因为",
+      "predict_sentence": "[UNK]生活[UNK]是因为"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "中国不是我出生的地方也一定有生活习懷的间题就是饭语信等等我要自己管自己我的解压方式有很多例如是认真复",
+      "predict_sentence": "中国不是我出生的地方也一定有生活习惯的问题就是吃饭睡等等我要自己管自己我的解压方式有很多例如是认真复"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "习我不知道的生词听喜乐吃好吃的饭多睡跟朋支出去跟朋友购天有很多解压方式这方式就让我在中国生活很享受了",
+      "predict_sentence": "习我不知道的生词听喜乐吃好吃的饭多睡觉跟朋友出去跟朋友购物天有很多解压方式这方式就让我在中国生活很享受了"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "跟父打电话的时候他们就放松了",
+      "predict_sentence": "跟父母打电话的时候他们就放松了"
+    }
+  ]
+}

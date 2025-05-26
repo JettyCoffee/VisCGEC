@@ -1,0 +1,70 @@
+{
+  "path": "2204.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上我的解压方式个人生活中，压力随影而行。",
+      "predict_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上我的解压方式个人生活中，压力如影随形。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我身色有我独特的解压方式。",
+      "predict_sentence": "我身为有我独特的解压方式。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "第一，我会选择在公围中徒步。",
+      "predict_sentence": "第一，我会选择在公园中徒步。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "时看自然凡吹来酶树本叶落下的声告，倾时树上的鸟叫声竹知全世界的事物都在那一刻停止了。",
+      "predict_sentence": "时看自然凡吹来酶树本叶落下的声告，顷时树上的鸟叫声指示全世界的事物都在那一刻停止了。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "脑中的烦求事都一洗而空。",
+      "predict_sentence": "脑中的烦恼事都一洗而空。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "在宁静香的河边或湖里看着丑颜大色的边鱼，就像一个在幼的彩虹鱼群过后的水面上，称玩出一条未波玫",
+      "predict_sentence": "在宁静香的河边或湖里看着丑颜大色的边鱼，就像一个在幼的彩虹鱼群过后的水面上，称玩出一条未波玫"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "让我想到了奶奶，靠儿时对我的宠爱。",
+      "predict_sentence": "让我想到了奶奶，想起了儿时她对我的宠爱。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "第二，我会事过阅读来释压。",
+      "predict_sentence": "第二，我会通过阅读来释压。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "读一本好书可以让战越智者对传，感受主人公的冒险披程，让我坐身焰真境",
+      "predict_sentence": "读一本好书可以让战越智者对传，感受主人公的冒险披程，让我坐身焰真境"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "还有剧情里的毒怒哀乐撑配这样的说法与享受，也可以让我暂时把这些压力抛诸脑后。",
+      "predict_sentence": "还有剧情里的毒怒哀乐等这样的说法与享受，也可以让我暂时把这些压力抛诸脑后。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "第三，选择享的远动，打篮球。",
+      "predict_sentence": "第三，选择享受运动，打篮球。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "右篮球场上激情奔敬，汗水淋漓的秒衣，随着每一步的挑，每一步的姿态，都是我最耀眼的时刻。",
+      "predict_sentence": "在篮球场上激情奔敬，汗水淋漓的秒衣，随着每一步的挑，每一步的姿态，都是我最耀眼的时刻。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "跃压力是人生中不可必克的难题，但又要重持激情与热爱，你我都能旦然面对种种难是。",
+      "predict_sentence": "跃压力是人生中不可必克的难题，但又要重持激情与热爱，你我都能坦然面对种种难是。"
+    }
+  ]
+}

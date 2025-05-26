@@ -1,0 +1,85 @@
+{
+  "path": "2210.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上我的解压方式人在不同的年龄段面对的是不同",
+      "predict_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上我的解压方式人在不同的年龄段面对的是不同"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "的压力",
+      "predict_sentence": "减压的压力"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "青年时面对是学匠力，照顾家人事。",
+      "predict_sentence": "青年时面对是学习力，照顾家人事。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "年老时更多的是健康问题带来的压力。",
+      "predict_sentence": "年老时更多的是健康问题带来的压力。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "由于我是一名学生，面对的自然是学压力。",
+      "predict_sentence": "由于我是一名学生，面对的自然是学习压力。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "当然，除此之外，由于我是第一次次独自来到国外常，又缺少了母亲的陪佩尔富在生活方面也会感到压力。",
+      "predict_sentence": "当然，除此之外，由于我是第一次独自来到国外常，又缺少了母亲的陪伴我在生活方面也会感到压力。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "庆幸的是，我都找到打造台自己的解压方式。",
+      "predict_sentence": "庆幸的是，我都找到打造台自己的解压方式。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "学学学学习压力大时，我会让自己的心态平静下来，会配好学习时间和休息时前。",
+      "predict_sentence": "学学学学习压力大时，我会让自己的心态平静下来，会配好学习时间和休息时间。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "比如，我会采用“蓄茄工作法”来规则我的时间。",
+      "predict_sentence": "比如，我会采用“蓄茄工作法”来安排我的时间。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "比如，学习分钟，紧接着休息了分钟，按照这样的规划，每两小时后长休息40一45分钟。",
+      "predict_sentence": "比如，学习分钟，紧接着休息了分钟，按照这样的规划，每两小时后长休息40一45分钟。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "休息时间内我会做一些和学习无相必关的事情分散注意力力。",
+      "predict_sentence": "休息时间内我会做一些和学习毫无关系的事情分散注意力力。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "这样压力不但降低了学习效果也会提高并且有了充分的休息。",
+      "predict_sentence": "这样不但压力降低了学习效果也会提高并且有了充分的休息。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "在生活方面，比如快餐不习惯时，我会在周末找一家印度餐厅就餐，偶尔换一换口味。",
+      "predict_sentence": "在生活方面，比如不习惯快餐时，我会在周末找一家印度餐厅就餐，偶尔换一换口味。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "即便是在同一个年龄段，不同的人将面对不同的压力，但最重要的是找到适合自己的解压压方式。",
+      "predict_sentence": "即便是在同一个年龄段，不同的人将面对不同的压力，但最重要的是找到适合自己的解压压方式。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "我认为压力大时最重要的不是景追求快快乐",
+      "predict_sentence": "我认为压力大时最重要的不是仅追求快快乐"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "而是找到一个既可以让自己的心态平静下来并可以同时解决问题的方法。",
+      "predict_sentence": "而是找到一个既可以让自己的心态平静下来并可以同时解决问题的方法。"
+    }
+  ]
+}

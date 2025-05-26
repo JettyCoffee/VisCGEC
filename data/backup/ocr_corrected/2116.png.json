@@ -1,0 +1,85 @@
+{
+  "path": "2116.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "愉快旅行我最难忘的一次旅行是两年前的中自旅行我跟妈妈和爸爸一起去上海。",
+      "predict_sentence": "愉快旅行我最难忘的一次旅行是两年前的自驾旅行我跟妈妈和爸爸一起去上海。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "当时我去过上海的很多地方。",
+      "predict_sentence": "当时我去过上海的很多地方。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我感觉上海是一个很漂亮的城市。",
+      "predict_sentence": "我感觉上海是一个很漂亮的城市。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "虽然当时的上海非常热，但是我们很长时间树下乘京了。",
+      "predict_sentence": "虽然当时的上海非常热，但是我们很长时间树下乘凉了。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "既我们在上海很好吃的东西，又欣赏了上海的好看的街道。",
+      "predict_sentence": "我们既在上海吃了很好吃的东西，又欣赏了上海的好看的街道。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "我觉得上海的树特别美，上海旅行以前总是族“树又什么好看的”但是才了解树的美，然后我觉的老街道也很好看",
+      "predict_sentence": "我觉得上海的树特别美，上海旅行以前总是族“树又有什么好看的”但是才了解树的美，然后我觉得老街道也很好看"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "我在就因的时候，旧的街道就不好看的。",
+      "predict_sentence": "我在就因的时候，旧的街道就不好看的。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "但是上海不一样，很独特。",
+      "predict_sentence": "但是上海不一样，很独特。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "我还有去过上海临时十第。",
+      "predict_sentence": "我还有去过上海临时十支。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "对韩国人未疏这个地方很有义意。",
+      "predict_sentence": "对韩国人而言这个地方很有意义。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "因为上海可以保存这里的地方，所以很多韩国人可以理解历史。",
+      "predict_sentence": "因为上海可以保存这个地方，所以很多韩国人可以了解历史。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我对上海很感动。",
+      "predict_sentence": "我为上海感到骄傲。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "这个旅行留下了美丽的回忆。",
+      "predict_sentence": "这次旅行留下了美丽的回忆。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "甚至让我来中国留学。",
+      "predict_sentence": "甚至让我来中国留学。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "所以我最难忘的旅行就是上海游行。",
+      "predict_sentence": "所以我最难忘的旅行就是上海之旅。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "我很喜欢上海这个城市，所以我对现在的中国留学很满意。",
+      "predict_sentence": "我很喜欢上海这个城市，所以我对中国现在的留学很满意。"
+    }
+  ]
+}

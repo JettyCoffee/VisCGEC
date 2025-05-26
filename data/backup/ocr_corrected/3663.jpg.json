@@ -1,0 +1,65 @@
+{
+  "path": "3663.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我的成长故事我从小到大成长的过程并没有多多丰富多彩不过",
+      "predict_sentence": "我的成长故事我从小到大成长的过程并没有多么丰富多彩不过"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "也没有那样平平无其。0我能回忆超我年龄最小的那段时光",
+      "predict_sentence": "也没有那样平平无奇。0我能回忆超我年龄最小的那段时光"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "是在我五六岁的时候，那时候的我没有烦脑的整天玩来玩去非常活没，那没时间也是我安华升小学的时候。",
+      "predict_sentence": "是在我五六岁的时候，那时候的我没有烦恼的整天玩来玩去非常活泼，那没时间也是我安华升小学的时候。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "每当在家一个人期待姐姐放学回家给我讲她在学校里经历历和听到的多种趣文我就听的地津津有味希望哪一天能和",
+      "predict_sentence": "每当在家一个人期待姐姐放学回家给我讲她在学校里经历和听到的多种趣闻我就听得地津津有味希望哪一天能和"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "姐姐一起经历那些事情。",
+      "predict_sentence": "和姐姐一起经历那些事情。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "当我蓝满心期待，终于上了小学的时候，现实给我踢了一脚。",
+      "predict_sentence": "当我蓝满心期待，终于上了小学的时候，现实给我一脚。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "厚重每天厚重的作业一两个月一次的考试，让我对们想的鸟的邦破裂了。",
+      "predict_sentence": "厚重每天厚重的作业一两个月一次的考试，让我对们想的鸟的邦破裂了。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "一天一天的压力让英当我有些不太舒服直到了小学升初中的那一年。",
+      "predict_sentence": "一天一天的压力让我在有些不太舒服直到了小学升初中的那一年。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "在我害怕初中将会面对什么样的压力时，分母给定带着我们回国读书。",
+      "predict_sentence": "在我害怕初中将会面对什么样的压力时，父亲给我定下目标让我们回国读书。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "薛里虽然说是回国，但是我对自己蓝国家的文化语言等都没有那样了解。",
+      "predict_sentence": "薛里虽然说是回国，但是我对自己国家的文化语言等都没有那样了解。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "这样的我母升上了初中又是一个从零开始能的生活。",
+      "predict_sentence": "这样的我进入初中又是一个从零开始的开始。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "不过在我担心之余，良身",
+      "predict_sentence": "不过在我担心之余，养生"
+    }
+  ]
+}

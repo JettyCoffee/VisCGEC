@@ -1,0 +1,55 @@
+{
+  "path": "2139.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "会的发生展，载舞数字生活已经成为我的生活一部分，给我们带来了很多便利我的已经离离开不了互联网了。",
+      "predict_sentence": "会的发生展，载舞数字生活已经成为我的生活一部分，给我们带来了很多便利我已离开不了互联网了。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "首选，我们在互联网什么都能找到，互联网是知识的大海。",
+      "predict_sentence": "首先，我们在互联网什么都能找到，互联网是知识的大海。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "圆酸圈在互联网上，你能候书、看新闻还能的向别人提问。",
+      "predict_sentence": "圆酸圈在互联网上，你能候书、看新闻还能的向别人提问。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "你利用这些能提高你的知环水平。",
+      "predict_sentence": "你利用这些能提高你的环保水平。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "次，你可以通过互联网享受生活。",
+      "predict_sentence": "此外，你可以通过互联网享受生活。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "比你看视频、通过社交软件跟我分别人交流等，真题图如图如图如图如图如图如图如图你你乐",
+      "predict_sentence": "比如看视频、通过社交软件跟我分别人交流等，真题图如图如图如图如图如图如图如图你你乐"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "让你的生活便得更非富一些。",
+      "predict_sentence": "让你的生活变得更丰富一些。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "最后，码，中国是有很强的码门，圆图为在鱼里边越爱月、跳高体、超市等点你里那里不管你去哪儿，都用码",
+      "predict_sentence": "最后，码，中国是有很强的码门，圆图为在鱼里边越爱月、跳高体、超市等点你里那里不管你去哪儿，都用码"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "你和，加的可以通过手机“码支付。",
+      "predict_sentence": "你和，佳的可以通过手机“码支付。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "你了支付的时候",
+      "predict_sentence": "您了支付的时候"
+    }
+  ]
+}

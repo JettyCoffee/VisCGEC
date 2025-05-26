@@ -1,0 +1,75 @@
+{
+  "path": "2508.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我最喜欢的运动我最喜欢的运动是排球。",
+      "predict_sentence": "我最喜欢的运动我最喜欢的运动是排球。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我从小时候对它感兴趣。",
+      "predict_sentence": "我从小时候就对它感兴趣。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "每当我站在球场上，看到阳光洒在捷或地板上，心中便涌起一种无比的兴奋感。",
+      "predict_sentence": "每当我站在球场上，看到阳光洒在捷或地板上，心中便涌起一种无比的兴奋感。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "首先，排球不仅是一项个人运动，更是用队合作的体现。",
+      "predict_sentence": "首先，排球不仅是一项个人运动，更是团队合作的体现。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "每一次穿球、传球和扣球，都需要队员之间的配合。",
+      "predict_sentence": "每一次传球、传球和扣球，都需要队员之间的配合。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "在此赛中，我们要及时沟通，互相支持，这种团结的精神让我感到集体的力量。",
+      "predict_sentence": "在此赛中，我们要及时沟通，互相支持，这种团结的精神让我感到集体的力量。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "其次排球毁灭了我的身体健康。",
+      "predict_sentence": "其次打排球毁坏了我的身体健康。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "通过不断的训练，我的反应能力和耐力都有了显著提升。",
+      "predict_sentence": "通过不断的训练，我的反应能力和耐力都有了显著提升。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "排球不仅让我强健了体肥，不止我学会了坚持和奋斗。",
+      "predict_sentence": "排球不仅让我强健了体肥，也让我学会了坚持和奋斗。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "此外，排球也教会了我如何面对失败。",
+      "predict_sentence": "此外，排球也教会了我如何面对失败。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "在比赛中，我的难免会遭遇共和，但我逐渐明白失败并不可怕，重要的是从中吸取教训，继续努力。",
+      "predict_sentence": "在比赛中，我难免会遭遇共和，但我逐渐明白失败并不可怕，重要的是从中吸取教训，继续努力。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "总之，排球不仅是一项运动，更是我的热突与追求。",
+      "predict_sentence": "总之，排球不仅是一项运动，更是我的热情与追求。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "它让我体会到运动的乐趣，同时也让我在团队中找到了归属感。",
+      "predict_sentence": "它让我体会到运动的乐趣，同时也让我在团队中找到了归属感。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "我希望能够继续打排球！",
+      "predict_sentence": "我希望能够继续打排球！"
+    }
+  ]
+}

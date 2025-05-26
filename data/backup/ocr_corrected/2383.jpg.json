@@ -1,0 +1,95 @@
+{
+  "path": "2383.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "依日年10日我的养生方式现在人们的生活节奏越来越快，关注自己的生活的人也越事越少。",
+      "predict_sentence": "一日年10日我的养生方式现在人们的生活节奏越来越快，关注自己的生活的人也越来越少。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我介绍我对养生的想法。",
+      "predict_sentence": "我介绍一下我对养生的看法。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "首先、吃蔬菜是很重要。",
+      "predict_sentence": "首先，吃蔬菜很重要。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "里面的同学养丰富，学养是对人的身体重要。",
+      "predict_sentence": "里面的同学养丰富，学养对人的身体很重要。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "现在年轻人喜欢吃产假面，零食等。",
+      "predict_sentence": "现在年轻人喜欢吃方便面，零食等。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "这种东西偶尔吃的话还可以可是对身体没有营养，不应该吃很多。",
+      "predict_sentence": "这种东西偶尔吃的话还可以可是对身体没有好处，不应该吃很多。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "除了饮食方面，睡眠也很重要。",
+      "predict_sentence": "除了饮食方面，睡眠也很重要。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "一天大概最少也要睡七个小时。",
+      "predict_sentence": "一天大概最少也要睡七个小时。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "一般八个小时是最好的时间。",
+      "predict_sentence": "一般八个小时是最佳的时间。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "可是现在很的人爱看手机或玩游戏，所以我的睡眠时间也很短。",
+      "predict_sentence": "可是现在很多人爱看手机或玩游戏，所以我的睡眠时间也很短。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "如夜的身体也不好，会伤害你身体的。",
+      "predict_sentence": "你的身体也不好，会伤害你身体的。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "自己的免疫力会下降，会容易感冒睡眠不是他会影响自己的集中力。",
+      "predict_sentence": "自己的免疫力会下降，会容易感冒睡眠不实会影响自己的集中力。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "对我丰说，睡眠比伙食重要。",
+      "predict_sentence": "对我来讲，睡眠比伙食重要。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "其他的东西的话，我觉得微自己的兴趣也很重要。",
+      "predict_sentence": "其他的东西的话，我觉得有自己的兴趣也很重要。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "我的兴趣爱好是劳动受我用我的兴趣来解压生活中的在力。",
+      "predict_sentence": "我的兴趣爱好是劳动我用我的兴趣来解压生活中的压力。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "我的解压方法就是看动漫或听音乐。",
+      "predict_sentence": "我的解压方法就是看动漫或听音乐。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "以前要玩游戏，可现在百时便觉得比看动漫和听音乐没什么很大的初果。",
+      "predict_sentence": "以前要玩游戏，可现在时常便觉得比起看动漫和听音乐没什么很大的初果。"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "买我喜欢玩游戏，可能也是我现在比",
+      "predict_sentence": "我是一个喜欢玩游戏的人，可能也是我现在比"
+    }
+  ]
+}

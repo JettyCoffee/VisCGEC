@@ -1,0 +1,60 @@
+{
+  "path": "3784.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与宏体书店我的生活中，安体产店的商色经万了退考的复化。",
+      "predict_sentence": "我与宏体书店我的生活中，安体产店的商色经营了退考的复化。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "小时候，实体步店是充满新奇与象趣的知识殿堂。",
+      "predict_sentence": "小时候，实体书店是充满新奇与趣味的知识殿堂。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我总会在周末和父母一起去书虐，穿梭在书架间，挑选一本在情美的升籍。",
+      "predict_sentence": "我总会在周末和父母一起去书虐，穿梭在书架间，挑选一本在情美的书籍。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "限可能的字藏土地。",
+      "predict_sentence": "限可能的闲置土地。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "在来，互联网兴起，线上购买和电子书籍冲击着宝体书店。",
+      "predict_sentence": "再来，互联网兴起，线上购买和电子书籍冲击着实体书店。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "我去安体书店的频率大师不降，更多时候选择在电子设备上阅读。",
+      "predict_sentence": "我去安体书店的频率不降，更多时候选择在电子设备上阅读。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "实体乡商店不再是获取知识的直选，似乎被我造志在角落。",
+      "predict_sentence": "实体乡商店不再是获取知识的直选，似乎被我造置在角落。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "然而，随着年故增长，我发现实体声店的意义远不止于院境。",
+      "predict_sentence": "然而，随着年复增长，我发现实体书店的意义远不止于影院。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "如今，我更愿意在附联时光走进实体声店，感受那针宁静与浓厚的文化氨围。",
+      "predict_sentence": "如今，我更愿意在附联时光走进实体声店，感受那针宁静与浓厚的文化氛围。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "去实体声店的月的也不再仅仅是购买簡，可是享受一般恒意的时光。",
+      "predict_sentence": "去实体店购物的目的也不再仅仅是购买商品，而是享受一种惬意的时光。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "在书店里，我可以静下人来，远离外界的喧器，沉浸在书的世界里。",
+      "predict_sentence": "在书店里，我可以静下人来，远离外界的喧嚣，沉浸在书的世界里。"
+    }
+  ]
+}

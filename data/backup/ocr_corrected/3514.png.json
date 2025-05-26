@@ -1,0 +1,65 @@
+{
+  "path": "3514.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我的职业理想我马上要毕业了，所以最近都在认真思考我的未来。",
+      "predict_sentence": "我的职业理想我马上要毕业了，所以最近都在认真思考我的未来。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我的职业理想，并非与我的专业国际汉语教育直接相关，而是希望回韩国从事人力资源部的工作。",
+      "predict_sentence": "我的职业理想，并非与我的专业国际汉语教育直接相关，而是希望回韩国从事人力资源的工作。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "选这个职业道路并不是一时冲动，在留学中我还渐发现自己对于人与人之间的沟通、交流以及管理有浓厚的兴趣",
+      "predict_sentence": "选这个职业道路并不是一时冲动，在留学中我还渐发现自己对于人与人之间的沟通、交流以及管理有浓厚的兴趣"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "所以探索所行业的时候就决定了职业了。",
+      "predict_sentence": "所以探索过行业的时候就决定了职业了。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我相信通过这个领域的努力，我能够将自己的兴趣转化为职业优势。",
+      "predict_sentence": "我相信通过这个领域的努力，我能够将自己的兴趣转化为职业优势。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "实现个人价值。",
+      "predict_sentence": "实现个人价值。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "首先，我和用课余时间学人力资源管理的相关知识，通过阅读专业书籍、参加线上课程，不断提升自己的素养。",
+      "predict_sentence": "首先，我用课余时间学人力资源管理的相关知识，通过阅读专业书籍、参加线上课程，不断提升自己的素养。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "还有，我最近找一份实习。",
+      "predict_sentence": "还有，我最近在找一份实习。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "此外，我还在教中国人籍语的过程中会学会怎么样能够让学生满足课程内容",
+      "predict_sentence": "此外，我还在教中国人籍语的过程中会学会怎么样能够让学生满足课程内容"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "这时候也要研究个人性格带来的教学优点和缺点。",
+      "predict_sentence": "这时候也要研究个人性格带来的教学优点和缺点。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我认为这个也对我和我要的职业有帮助。",
+      "predict_sentence": "我认为这个也对我和我的职业有帮助。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "韩语误不仅让我更加自信地面对工作挑战，也让我在跨文化交际中积累了宝贵的经验。",
+      "predict_sentence": "韩语不仅让我更加自信地面对工作挑战，也让我在跨文化交际中积累了宝贵的经验。"
+    }
+  ]
+}

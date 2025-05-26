@@ -1,0 +1,70 @@
+{
+  "path": "3708.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "原宗縣实现职业理想是每个人都渴望的目标，但这条路并不总是一帆风顺。",
+      "predict_sentence": "原宗縣实现职业理想是每个人都渴望的目标，但这条路并不总是一帆风顺。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "为了让自己的理想变成现实，我认为需要明确目标、制定计划不断学习和保持积极的心态。",
+      "predict_sentence": "为了让自己的理想变成现实，我认为需要明确目标、制定计划不断学习和保持积极的心态。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "首先，明确目标是实现职业理想的第好如果想要圆自己的梦",
+      "predict_sentence": "首先，明确目标是实现职业理想的第好如果想要圆自己的梦"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "最起码需要有一个方向自己需要清楚自己想要成为什么样的人，以及在这个职业中希望达到什么样的成就。",
+      "predict_sentence": "最起码需要有一个方向自己需要清楚自己想要成为什么样的人，以及在这个职业中希望达到什么样的成就。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "其次，制定详细的计划至关重要。",
+      "predict_sentence": "其次，制定详细的计划至关重要。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "仅有目标不够，还需要将其成可以实施的具体步骤。",
+      "predict_sentence": "仅有目标不够，还需要将其成可以实施的具体步骤。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "例如，把目标分成长期目标和短期目标。",
+      "predict_sentence": "例如，把目标分成长期目标和短期目标。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "通过制定时间表和学习计划，能够更有效地管理自己的时间",
+      "predict_sentence": "制定时间表和学习计划，能够更有效地管理自己的时间"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "确保每一步都在朝着理想职业迈进不断学习是实现职业理想的重要途径。",
+      "predict_sentence": "确保每一步都在朝着理想职业迈进不断学习是实现职业理想的重要途径。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "无没在那个行业，知识和技能的更新换代都非常迅速。",
+      "predict_sentence": "无 matter 在哪个行业，知识和技能的更新换代都非常迅速。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "为了跟上时代的发展，我需要利用各种资源。",
+      "predict_sentence": "为了跟上时代的发展，我需要利用各种资源。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "此外，向已经在该领域工作的前辈请教经验，也能让我受益匪浅。",
+      "predict_sentence": "此外，向已经在该领域工作的前辈请教经验，也能让我受益匪浅。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "保持积极良好的心态也是实现职业理想的",
+      "predict_sentence": "保持积极良好的心态也是实现职业理想的"
+    }
+  ]
+}

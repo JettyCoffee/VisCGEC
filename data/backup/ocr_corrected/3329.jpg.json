@@ -1,0 +1,70 @@
+{
+  "path": "3329.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "在数字化时代的冲击下，实体书店经历了许多变化。",
+      "predict_sentence": "在数字化时代的冲击下，实体书店经历了许多变化。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "以前书店是人们获取知识和文化的主要场所，如今它们不仅要面对电子书和在线购物的竞争",
+      "predict_sentence": "以前书店是人们获取知识和文化的主要场所，如今它们不仅要面对电子书和在线购物的竞争"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "还需要在这个快节奏的生活中我到自己的定位。",
+      "predict_sentence": "还需要在这个快节奏的生活中找到自己的定位。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "然而，尽管环境发生了变化，我热衷去实体书店，那里有我独特的体验和感受。",
+      "predict_sentence": "然而，尽管环境发生了变化，我热衷去实体书店，那里有我独特的体验和感受。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我记得第一次走进一家独立书店时，空气中有纸张的清香，四周是整齐排列的劣犁",
+      "predict_sentence": "我记得第一次走进一家独立书店时，空气中有纸张的清香，四周是整齐排列的劣犁"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "为籍好象在静静地等待着我去发现。",
+      "predict_sentence": "苇径好象在静静地等待着我去发现。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "与网上购物的会冰冰相比，实体书店的温暖和亲切让我感到放松。",
+      "predict_sentence": "与网上购物的冰冷相比，实体书店的温暖和亲切让我感到放松。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "在书店里我可以感受每一本书的质感，这种体验是电子屏幕无法给的。",
+      "predict_sentence": "在书店里我可以感受每一本书的质感，这种体验是电子屏幕无法给的。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "每次去书店，我都喜欢和书店员交流。",
+      "predict_sentence": "每次去书店，我都喜欢和书店员工交流。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "他们总是热情地向我推荐新方式老经典作品。",
+      "predict_sentence": "他们总是热情地向我推荐新方式和经典作品。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "这种个性化的服务让我感到被重视，也让我发现了许多自己之前浸注意的好声。",
+      "predict_sentence": "这种个性化的服务让我感到被重视，也让我发现了许多自己之前未注意的好声。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "除了购买，去实体书店也是一种社交活动。",
+      "predict_sentence": "除了购买，去实体书店阅读也是一种社交活动。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "我常常约上朋友一起去逛书店，我们会在",
+      "predict_sentence": "我常常约上朋友一起去逛书店，我们会在那里读书和讨论。"
+    }
+  ]
+}

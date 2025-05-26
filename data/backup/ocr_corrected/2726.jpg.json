@@ -1,0 +1,75 @@
+{
+  "path": "2726.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与购物新方式老师将？",
+      "predict_sentence": "我与购物新方式老师讲？"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我是艾莎。",
+      "predict_sentence": "我是艾莎。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "看到“购物新方式”应几个全部时，说实我当我第一时间想到的是直接购物方式，但又仔细想了想",
+      "predict_sentence": "看到“购物新方式”应几个全部时，说实话我当我第一时间想到的是直接购物方式，但又仔细想了想"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "这虽然确实是“新到购物方式”但以个人角度来看，我平时并不是个喜欢在直播间买东西的人，换句话丰讲",
+      "predict_sentence": "这虽然确实是“新兴购物方式”但以个人角度来看，我平时并不是个喜欢在直播间买东西的人，换句话讲"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我是个很自己陷入消费主义陷阱的人所以是",
+      "predict_sentence": "我是个很容易陷入消费主义陷阱的人所以是"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "然直播购物对我来说确实是种新方式但我并没有经常使用这种方式购物。",
+      "predict_sentence": "然直播购物对我来说确实是种新方式但我并没有经常使用这种方式购物。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "对我来说，有一种购物方式是新的！",
+      "predict_sentence": "对我来说，有一种购物方式是新的！"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "那就是，买书时选择二手书来买，而且并不是像传统的方式，从书店或朋友手中买",
+      "predict_sentence": "那就是，买书时选择二手书来买，而且并不是像传统的方式，从书店或朋友手中买"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "而是从一个做公益的微信公众号中买，那是一个叫作C漫游些？",
+      "predict_sentence": "而是从一个做公益的微信公众号中买，那是一个叫作C漫游学？"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "购买第二手书的平台。",
+      "predict_sentence": "购买二手书的平台。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "在发现这个平台之前钱都是从有宝或书后买书，通常都是新的，区景区不能获得其它的东西，在这里",
+      "predict_sentence": "在发现这个平台之前钱都是从有宝或书后买书，通常都是新的，区景区不能获得其它的东西，在这里"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我提到的[UNK]基它收费[UNK]是指除了纯购物以外我还有到了什么..李实证明从c漫游鲜）这个平台",
+      "predict_sentence": "我提到的[UNK]基他收费[UNK]是指除了纯购物以外我还有到了什么..李实证明从c漫游鲜）这个平台"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "购买二手书的同时我也可以收集一些其它东西",
+      "predict_sentence": "购买二手书的同时我也可以收集一些其他东西"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "的为这个平台它是个公益平台，所以在买书的同",
+      "predict_sentence": "得知这个平台它是个公益平台，所以在买书的同"
+    }
+  ]
+}

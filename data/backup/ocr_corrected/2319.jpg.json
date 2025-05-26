@@ -1,0 +1,85 @@
+{
+  "path": "2319.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "南勿真理我与同购新方式我们来到中国的时候。",
+      "predict_sentence": "南勿真理我与同购新方式我们来到中国的时候。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我对这单的同购文化感到十分惊奇。",
+      "predict_sentence": "我对这单的团购文化感到十分惊奇。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我在日年，同购柔急也在你新发展，但是没有中国那么方便。",
+      "predict_sentence": "我在日年，同购邮急也在你新发展，但是没有中国那么方便。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "有好多时候我还是更他们于头岁存后购物在中国的同购对我来说是一种能新鲜的体说。",
+      "predict_sentence": "有好多时候我还是更他们于头岁存后购物在中国的同购对我来说是一种能新鲜的体验。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我记错第一次用同购是在一个冬天外面好冷，又不知道自己想吃什么又不太会说中文的时候，在的上想系了一下。",
+      "predict_sentence": "我记错第一次用同购是在一个冬天外面好冷，又不知道自己想吃什么又不太会说中文的时候，在的上想了一下。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "吃的东西。",
+      "predict_sentence": "吃的东西。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "很快就找到了！",
+      "predict_sentence": "我很快就找到了！"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我想吃的东西。",
+      "predict_sentence": "我吃的东西。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "下单不不久才快到的时候我也去门口找他。",
+      "predict_sentence": "下单不久才快到的时候我也去门口找他。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "只穿玩干爬尾号没有美困柜子。",
+      "predict_sentence": "只穿玩杆爬尾号没有美困煤子。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "所以看看他到哪里，他伙到的时候我也去门口找他。",
+      "predict_sentence": "所以看看他到哪里，他回到的时候我也去门口找他。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "只穿玩干爬尾号·戏惊喜。",
+      "predict_sentence": "直穿玩惯爬尾号·戏惊喜。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "回购不仅方便，而且选择多样。",
+      "predict_sentence": "回购不仅方便，而且选择多样。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "在日本有时候为了找到想事的，东西，我需要跑很多店他在中国，只需穿在同上搜索一下",
+      "predict_sentence": "在日本有时候为了找到想吃的，东西，我需要跑很多店他在中国，只需穿着上搜索一下"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "就能找多各种各样的选择。",
+      "predict_sentence": "就能提供各种各样的选择。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "无光是日用品，食的硬很旺轻在网上买到",
+      "predict_sentence": "无光是日用品，食的硬很凉轻在网上买到"
+    }
+  ]
+}

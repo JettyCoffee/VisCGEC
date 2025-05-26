@@ -1,0 +1,45 @@
+{
+  "path": "2590.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我时不我为了健康我个运动我最喜欢的运动方式是用全身感觉比散步更好的减方式，还有可以选择我喜欢的歌",
+      "predict_sentence": "我时不我为了健康我个运动我最喜欢的运动方式是用全身感觉比散步更好的减方式，还有可以选择我喜欢的歌"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "所以我觉得舞是对我来说最好运动方式。",
+      "predict_sentence": "所以我觉得跳舞对我来说是最好的运动方式。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "有我喜欢去健身房段身体，我一开始文前，我觉得很但是慢慢看得出来我努力的效果，就爱上了去健身房。",
+      "predict_sentence": "有我喜欢去健身房锻身体，我一开始文前，我觉得很但是慢慢看得出来我努力的效果，就爱上了去健身房。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "最后，我喜欢的运动是散步。",
+      "predict_sentence": "最后，我喜欢的运动是散步。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我平时很走路，甚至买了电动车。",
+      "predict_sentence": "我平时很喜欢走路，甚至买了电动车。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "但是我喜欢晚上边听言乐、跟朋友脚天儿一边散敬步是给我很平空的感觉。",
+      "predict_sentence": "但是我喜欢晚上边听音乐、跟朋友聊聊天一边散散步是给我很平静的感觉。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "总而言之。",
+      "predict_sentence": "总而言之，"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我喜欢舞、去健身房戏身体和散步。",
+      "predict_sentence": "我喜欢跳舞、去健身房锻炼身体和散步。"
+    }
+  ]
+}

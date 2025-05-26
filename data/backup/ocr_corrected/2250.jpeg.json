@@ -1,0 +1,10 @@
+{
+  "path": "2250.jpeg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "的国家一个省像一个国家一科大化、清高",
+      "predict_sentence": "的国家一个省像一个国家一样大、清高"
+    }
+  ]
+}

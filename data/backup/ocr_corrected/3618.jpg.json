@@ -1,0 +1,60 @@
+{
+  "path": "3618.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "从心我与实际书店養我时开始我对相爱看童话故事，因为我很爱看过士尼的动画片",
+      "predict_sentence": "从心里与实际书店养我时开始我看童话故事，因为我很爱看过士尼的动画片"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "翁妈妈总是给我买各种各样的动画片和各种故事。",
+      "predict_sentence": "翁妈妈总是给我买各种各样的动画片和各种故事书。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我是家里最小的女儿遇姐姐的差十二岁的小孩儿在全是人人的家肯定是格格不入",
+      "predict_sentence": "我是家里最小的女儿与姐姐的差十二岁的小孩儿在全是人的家肯定是格格不入"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "太多的溺爱使我相信自己也是个小公主。",
+      "predict_sentence": "太多的溺爱使我相信自己也是个小公主。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我记得我等一次进书店，好多好多充满色彩的书本很是耀眼。",
+      "predict_sentence": "我记得我有一次进书店，好多好多充满色彩的书本很是耀眼。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "之后我慢慢长大了永远记得得那时候我依然会去书店，但是我所购买的书再也不是童活书了",
+      "predict_sentence": "之后我慢慢长大了永远记得得那时候我依然会去书店，但是我所购买的书再也不是童话书了"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "那时里的我大概十岁左右，我开始喜欢各种各样的诗词书",
+      "predict_sentence": "那时里的我大概十岁左右，我开始喜欢各种各样的诗词书"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "那时候我也偶尔写一些诗心里总想有一天我也能成为一个著名作家。",
+      "predict_sentence": "那时候我也偶尔写一些诗心里总想有一天我也能成为一个著名的作家。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "很少后来的后来我好像到再去书店了，其时偶而也会去买书",
+      "predict_sentence": "很少后来的后来我好像再到不去书店了，其时偶尔也会去买书"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "但不再是童话书和诗词书了现在有空的时在问就想睡觉或者玩玩手机，就算家堆满了各种名样的书",
+      "predict_sentence": "但不再是童话书和诗词书了现在有空的时候在想就想睡觉或者玩玩手机，就算家堆满了各种名样的书"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我也不会去想哪一天的读那种书，去买书后也不会像之前一样了，就算么买一点但我知道我不会去读。",
+      "predict_sentence": "我也不会去想哪一天的读哪种书，去买书后也不会像之前一样了，就算买一点但我知道我不会去读。"
+    }
+  ]
+}

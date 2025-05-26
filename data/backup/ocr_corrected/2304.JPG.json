@@ -1,0 +1,35 @@
+{
+  "path": "2304.JPG",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "网上购物改变了我们的生活，以前，很多人喜欢去商店买东西，但是，现在很多人都选排间上购物，通过网上购物",
+      "predict_sentence": "网上购物改变了我们的生活，以前，很多人喜欢去商店买东西，但是，现在很多人都选择网上购物，通过网上购物"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我们可收节省您多时间和精力。",
+      "predict_sentence": "我们可为您节省时间与精力。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我第一次网上购物是在上申多的时候，都一件在服，过了一会儿，快退就送到了，收终常在网上买乐西。",
+      "predict_sentence": "我第一次网上购物是在上申多的时候，都一件在服，过了一会儿，快退就送到了，收终常在网上买零食。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "除了汽服，我还常常在网上买日紫用品。",
+      "predict_sentence": "除了汽服，我还常常在网上买日用品。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "例如，我住在宿舍时，需要生活用品，在网上到，或者商品的质量不好，但现在很多网上商店的服务都很好",
+      "predict_sentence": "例如，我住在宿舍时，需要生活用品，在网上订购，但商品的质量不好，但现在很多网上商店的服务都很好"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "如果有问题，我可以低容易进货或换货。",
+      "predict_sentence": "如果有问题，我可以很容易进货或换货。"
+    }
+  ]
+}
