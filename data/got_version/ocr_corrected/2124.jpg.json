@@ -1,0 +1,70 @@
+{
+  "path": "2124.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "韩国我的互联同生活现化的年轻人在网上做什么呢？",
+      "predict_sentence": "韩国我的互联网生活现代化的年轻人在网上做什么呢？"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "在我们的国家，韩国，对年轻人最人气的是SNS，这个系统是让人们在网上交流的，比如说",
+      "predict_sentence": "在我们的国家，韩国，最受欢迎的是SNS，这个系统是让人们在网上交流的，比如说"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "你要分相你今天吃的晚饭。",
+      "predict_sentence": "你要分享你今天吃的晚饭。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "SNS让你的照片或影片给大家看。",
+      "predict_sentence": "SNS让你的照片或影片给大家看。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "你认识的人，知道的人都能看你的照片。",
+      "predict_sentence": "你认识的人，知道的人都能看你的照片。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "当然，如果你有不想分相的人的话在系统里随便能挟的，可是，我自己不太喜欢SNS。",
+      "predict_sentence": "当然，如果你有不想分享的人的话在系统里随便能挟的，可是，我自己不太喜欢SNS。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "喜原因有很多，第一是有太多假的东西，因为SNS很自由，你随便能上你想上的东西，然这样的肯定有不道德的",
+      "predict_sentence": "喜原因有很多，第一是有太多假的东西，因为SNS很自由，你随便能上你想上的东西，然这样的肯定有不道德的"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我也高中的时候非常喜欢做SNS，但是现在完全不做我相信SNS有很多的好处",
+      "predict_sentence": "我高中的时候也十分喜欢做sns，但是现在完全不做我相信sns有很多的好处"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "但是很多年轻人变得头盈盈了因为这个系统。",
+      "predict_sentence": "但是很多年轻人变得油盈盈了因为这个系统。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "那我最放在网上做什么呢？",
+      "predict_sentence": "那我资料放在网上做什么呢？"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我最近喜欢网上灵帮助我生活的东西，我觉得发展我的现在的人生最重要。",
+      "predict_sentence": "我最近喜欢网上能帮助我生活的东西，我觉得发展我的现在的人生最重要。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我上大学的理由也是一样的。",
+      "predict_sentence": "我上大学的理由也是一样的。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "SNS是人们的自由，但是不要放弃现象的人生。",
+      "predict_sentence": "SNS是人们的自由，但是不要放弃现实的人生。"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "2194",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我压心的力本我发有人是况是乐的我格我大以a1t不a服的以这以9但受到较多压力最近压的两种1种是卖压力",
+      "predict_sentence": "我压心的力本我发有人是况是乐的我格我大以a1t不a服的以这以9但受到较多压力最近压的两种1种是卖压力"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "周三课6f有常大早上九点上班晚上六点下班让我累死了这是对我第一次公司生活所以",
+      "predict_sentence": "周三课6f有常大早上九点上班晚上六点下班让我累死了这是我的第一次公司生活所以"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "更累了重要是",
+      "predict_sentence": "更累的是重要的是"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "工作内容上班以后用电脑发微信广告公司的空室但加好几个人的微信突然不能加微信因为",
+      "predict_sentence": "工作内容上班以后用电脑发微信广告公司的空时但加好几个人的微信突然不能加微信因为"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "频繁加的这样的话没有什么做的只是等一等所以",
+      "predict_sentence": "频繁加班的话没有什么做的只是等一等所以"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "时有空浪费时间没有什么成取感第二不压力是关于论文的四年级学生个学期有的时开题文这中每一个过程很难通写",
+      "predict_sentence": "时有空浪费时间没有什么成就感第二不压力是关于论文的四年级学生这个学期有的时开题文中每一个过程很难通写"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "过原报报告格考零题目克服的过很多0现习大线在日的发我记题能作也事步会作法情作自进有能法解空内间我写格",
+      "predict_sentence": "过原报报告格考零题目克服的够多0现习大线在日的发我记题能作也事步会作法情作自进有能法解空内间我写格"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "行会63此m程部分压力的压",
+      "predict_sentence": "血管63cm处部分压力的压"
+    }
+  ]
+}

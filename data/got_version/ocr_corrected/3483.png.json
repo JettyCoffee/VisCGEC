@@ -1,0 +1,70 @@
+{
+  "path": "3483.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "对我来境最理想的职业是当一名老师。",
+      "predict_sentence": "对我来说最理想的职业是当一名老师。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "但硝于现实上的种种条件，理想当一名老师的这个理想估计要推迟一点时间才行。",
+      "predict_sentence": "但由于现实上的种种条件，当一名老师这个理想估计要推迟一点时间才行。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "首先我的目标是先回国直接去找工作。",
+      "predict_sentence": "首先我的目标是先回国直接去工作。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "现在虽然还不知道我会做什么样的工作，但是不管我会做得一美的工作",
+      "predict_sentence": "虽然现在还不知道我会做什么样的工作，但是不管我会做得怎么样工作"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "有空闲时间我还是会巩固一下我在大学期间所学到的专业知识。",
+      "predict_sentence": "有空闲时间我还是会巩固一下我在大学期间所学到的专业知识。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "之后我会去找一个家教或补习班，去当一名打工式的中文教师。",
+      "predict_sentence": "之后我会去找一个家教或报个补习班，去当一名打工式的中文教师。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "这公一来我既会体会到当教师时的相处，也会意识到自己所不美。",
+      "predict_sentence": "这公一来我既会体会到当教师时的相处，也会意识到自己所不足。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "其次，在30多的时候再去读韩国的大学读硕士。",
+      "predict_sentence": "其次，在30多岁的时候再去读韩国的大学读硕士。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "之所以在韩国读硕士是因为，韩国里想当一名学校老师的话，一定要在韩国读龙硕士才行。",
+      "predict_sentence": "之所以在韩国读硕士是因为，在韩国里想当一名学校老师的话，一定要在韩国读完硕士才行。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "这公一来我估计在35岁之前，应该还是能顺利毕业，如果35岁之前能顺利的淡宽硕士耐么从36岁开始",
+      "predict_sentence": "这大概来我估计在35岁之前，应该还是能顺利毕业，如果35岁之前能顺利的淡宽硕士那么从36岁开始"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "应该可以在韩国的学校当一名中文老师。",
+      "predict_sentence": "我应该可以在韩国的学校当一名中文老师。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "可是现实中发生的事情，终定会跟自己所预想的事不同。",
+      "predict_sentence": "可是现实中发生的事情，终定会跟自己所预想的事不同。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "如果在我当教师的路途上发生",
+      "predict_sentence": "如果在我当老师的路途上发生"
+    }
+  ]
+}

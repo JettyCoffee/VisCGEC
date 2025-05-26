@@ -1,0 +1,35 @@
+{
+  "path": "3706.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "们告添新的单词和表达地方式。",
+      "predict_sentence": "们告添新的单词和表达的方式。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "所以我的理想的职业是想韩国公司的中国总部营销部职员。",
+      "predict_sentence": "所以我的理想职业是韩国公司的中国总部营销部职员。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "去上班每天开心。",
+      "predict_sentence": "我每天去上班都很开心。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "特别是我对伦敦品有感兴。",
+      "predict_sentence": "特别是我对伦敦饼有兴致。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我想提出解决方案、跟聚沟通。",
+      "predict_sentence": "我想提出解决方案、跟经理沟通。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "这是我的理想积业。",
+      "predict_sentence": "这是我的理想职业。"
+    }
+  ]
+}

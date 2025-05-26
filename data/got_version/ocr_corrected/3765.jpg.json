@@ -1,0 +1,65 @@
+{
+  "path": "3765.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与实体书店小时候，实体书店是我最喜欢的地方之一。",
+      "predict_sentence": "小时候我与实体书店，实体书店是我最喜欢的地方之一。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "每到周末，父母常常带我去逛书店，那些摆滴书籍的书条仿佛是一个奇妙的宝库。",
+      "predict_sentence": "每到周末，父母常常带我去逛书店，那些摆滴书籍的书架仿佛是一个奇妙的宝库。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我总是挑选自己喜欢的故事书，然后坐在书店的角落里，翻开书贝，沉浸在字里行间。",
+      "predict_sentence": "我总是挑选自己喜欢的故事书，然后坐在书店的角落里，翻开书贝，沉浸在字里行间。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "那时的实体书店，不仅是学习的场所，也是我童年最美好的记忆之随着时间推移，尤其是进入高中以后",
+      "predict_sentence": "那时的实体书店，不仅是学习的场所，也是我童年最美好的记忆之随着时间推移，尤其是进入高中以后"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我去实体书店的次数渐渐减少。",
+      "predict_sentence": "我去实体书店的次数渐渐减少。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "网络购物和电子书的兴起让买书变得方便快捷，我不再需要特意跑到书店挑选书籍。",
+      "predict_sentence": "网络购物和电子书的兴起让买书变得方便快捷，我不再需要特意跑到书店挑选书籍。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "电子设备的普及也让他习惯了通过屏幕获取知识。",
+      "predict_sentence": "电子设备的普及也让他习惯了通过屏幕获取知识。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "直到一次偶然的机会，我已重新感受到了实体书店的魅力。",
+      "predict_sentence": "直到一次偶然的机会，我才重新感受到了实体书店的魅力。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "那天，我路过一家装修别改的独立书店，怀着好奇走了进去。",
+      "predict_sentence": "那天，我路过一家装修别改的独立书店，怀着好奇走进去。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "店内温馨的灯光、摆放精致的书架，以及安静的阅读复图赚回吸引了我。",
+      "predict_sentence": "店内温馨的灯光、摆放精致的书架，以及安静的阅读氛围吸引了我。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "从那以后，我开始定期去宝体书店。",
+      "predict_sentence": "从那以后，我开始定期去书店。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "现在",
+      "predict_sentence": "现在"
+    }
+  ]
+}

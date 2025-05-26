@@ -1,0 +1,50 @@
+{
+  "path": "2101.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "郑昊舒韩国我在高中的时候，我和我的家人去了济州旅游非常期待。",
+      "predict_sentence": "郑昊舒韩国我在高中的时候，我和我的家人去了济州旅游非常期待。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "但是去济州的那天，天气预报说那天要下雨，所以我有点儿担心。",
+      "predict_sentence": "但是去济州的那天，天气预报说那天要下雨，所以我有点儿担心。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "但是到了济州岛，没有下雨，空气很新鲜，天空也很晴朗。",
+      "predict_sentence": "但是到了济州岛，没有下雨，空气很新鲜，天空也很晴朗。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "到了济州岛我们先去酒店登记了，然后去了涉地可支。",
+      "predict_sentence": "到了济州岛我们先去酒店登记了，然后去了涉地可支。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "涉地可支是一个非常有名的旅游景点。",
+      "predict_sentence": "涉地可支是一个非常有名的旅游景点。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "里面有很多油菜花，我觉得这个地方很美丽。",
+      "predict_sentence": "里面有很多油菜花，我觉得这个地方很美丽。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "第一天的早上去了牛岛，在那里吃了刀切面，看宝牛岛，我们就回家了。",
+      "predict_sentence": "第一天的早上去了牛岛，在那里吃了刀切面，看了宝牛岛，我们就回家了。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "这时候，我因为学业的原因有了很大的压力。",
+      "predict_sentence": "这时候，我因为学业的原因有很大的压力。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "我觉得这次旅游受到了安慰，所以这次游游是我最难忘的旅游。",
+      "predict_sentence": "我觉得这次旅游受到了安慰，所以这次旅游是我最难忘的旅游。"
+    }
+  ]
+}

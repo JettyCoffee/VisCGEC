@@ -1,0 +1,27 @@
+{
+  "fk_homework_id": 2561,
+  "path": "2561.jpg",
+  "source_text": "说非",
+  "bounding_box_list": [
+    {
+      "char": "说",
+      "bbox": [
+        404,
+        584,
+        425,
+        598
+      ],
+      "confidence": 0.9975461959838867
+    },
+    {
+      "char": "非",
+      "bbox": [
+        425,
+        584,
+        447,
+        598
+      ],
+      "confidence": 0.9975461959838867
+    }
+  ]
+}

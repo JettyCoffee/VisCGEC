@@ -1,0 +1,40 @@
+{
+  "path": "2590",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "时不那喜欢远动但是",
+      "predict_sentence": "平时不喜欢运动但是"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "为了健康我做了几个运动我最喜欢的运动方式是舞因为",
+      "predict_sentence": "为了健康我做了几个运动我最喜欢的运动方式是舞因为"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "舞要用全身感觉比散步更好的减方10式还有可以选择我喜欢的歌所以",
+      "predict_sentence": "舞要用全身感觉比散步更好的减肥10式还有可以选择我喜欢的歌所以"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我觉得舞是对我来说最好的运动方式还有我喜欢去健身房段身体我第一次去健身房的原因是疼医生给我推荐去健身",
+      "predict_sentence": "我觉得舞是对我来说最好的运动方式还有我喜欢去健身房锻炼身体我第一次去健身房的原因是疼医生给我推荐去健身"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "房段身体我一开始云前我觉得很但是",
+      "predict_sentence": "房间身体我一开始运拳我觉得很但是"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "慢慢看得出来我努力的效果就爱上了去健身房最后我喜欢的运动是散步我平时很0走路甚至买了电动车但是",
+      "predict_sentence": "慢慢看得出来我努力的效果就爱上了去健身房最后我喜欢的运动是散步我平时很0走路甚至买了电动车但是"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "我喜欢晚上一边听音乐跟朋友聊天儿一边散散步是给我很平安的感觉总而言之我喜欢舞去健身房段身体和散步",
+      "predict_sentence": "我喜欢晚上一边听音乐跟朋友聊天儿一边散散步是给我很平安的感觉总而言之我喜欢舞去健身房锻身体和散步"
+    }
+  ]
+}

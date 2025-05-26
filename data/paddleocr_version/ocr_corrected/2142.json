@@ -1,0 +1,60 @@
+{
+  "path": "2142",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "生活已经成为我们生活的一部分了我已经习惯了生活在数字时代现在和以前对比来说现在我们的生活非常方便首先",
+      "predict_sentence": "生活已经成为我们生活的一部分了我已经习惯了生活在数字时代现在和以前对比来说现在我们的生活非常方便首先"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "随着导航外能的发展很多人要去不认识的地方时会用手机上的导航因为",
+      "predict_sentence": "随着导航能源的发展很多人要去不认识的地方时会用手机上的导航因为"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我是一个路盲所以",
+      "predict_sentence": "我是一个路盲所以"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "去不认路的时候经常会迷路我上小学的时候还没有智能手机所以",
+      "predict_sentence": "去认路的时候经常会迷路我上小学的时候还没有智能手机所以"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "当不知道要怎么走的时候只能路陌生人问路但是",
+      "predict_sentence": "当不知道要怎么走的时候只能向陌生人问路但是"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "现在完全不需要这样了其次数字生活也带来了吃很多美食的机会因为",
+      "predict_sentence": "现在完全不需要这样了其次数字生活也带来了吃很多美食的机会因为"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "之前没有路大众电评一样的所以",
+      "predict_sentence": "之前没有像大众电评一样的所以"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "很多人想找一个美创店也很不容易找只能朋友式家人的推荐下去吃美食店但现在不一样了只要点开就可以找附近有",
+      "predict_sentence": "很多人想找一个美创店也很不容易找只能朋友式家人的推荐下去吃美食店但现在不一样了只要点开就可以找附近有"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "什么好吃的东西而且",
+      "predict_sentence": "什么好吃的东西而且"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "还可以送到门口现在的数字生活对我来说太方便了总之我很满意生活在数字时代它有着各种各样的尤点我希望未来",
+      "predict_sentence": "还可以送到门口现在的数字生活对我来说太方便了总之我很满意生活在数字时代它有着各种各样的优点我希望未来"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "的生活会更加方使我很期待未来我们的数字时代",
+      "predict_sentence": "的生活会更加方便我很期待未来我们的数字时代"
+    }
+  ]
+}

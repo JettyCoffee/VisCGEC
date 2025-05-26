@@ -1,0 +1,55 @@
+{
+  "path": "3709.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "智慧职业理想我们对未来职业生涯的期望和追求，它不仅反映了我们的兴趣和爱好",
+      "predict_sentence": "智慧职业理想我们对未来职业生涯的期望和追求，它不仅反映了我们的兴趣和爱好"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "他体现了我们的价值观我的职业理想可能最适合我是做投资为这个职业我做了一些准备首先我在学CPA考试",
+      "predict_sentence": "他体现了我们的价值观我的职业理想可能最适合我是做投资为这个职业我做了一些准备首先我在学CPA考试"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "这会帮助我更深到了解移动，怎样做投资的时候避免损失并回挣钱，这个职业还需要投资者拥有一定的成本。",
+      "predict_sentence": "这会帮助我更深到了解移动，怎样做投资的时候避免损失并回挣钱，这个职业还需要投资者拥有一定的成本。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "所以我先得得钱才能去体会投资这个职业其次，为存成本我先需要有生意，我的想法是去做外贸。",
+      "predict_sentence": "所以我先得得钱才能去体会投资这个职业其次，为存成本我先需要有生意，我的想法是去做外贸。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "最近我考虑如何在我国去找官户，并我国家到低有什么需求。",
+      "predict_sentence": "最近我考虑如何在我国去找客户，并我国家到底有什么需求。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "由于我还没华业我只能做市场分析，我发现太阳的市场在召萨资源坦正比较有潜力。",
+      "predict_sentence": "由于我还没华业我只能做市场分析，我发现太阳能市场在整合资源方面比较有潜力。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "而中国生产的太B能技术还是很发达。",
+      "predict_sentence": "而中国生产的太B能技术还是很发达。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "做生意和做投资要的元化，无所从俗一种生意有一定的风险，我还要需想办法做具他生意最后",
+      "predict_sentence": "做生意和做投资要的元化，无所从俗一种生意有一定的风险，我还要需想办法做其他生意最后"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "做投资和做生意需情绪稳定。",
+      "predict_sentence": "做投资和做生意须情绪稳定。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "不因为生气或难过做出决定，为这个我还是要做",
+      "predict_sentence": "不因为生气或难过做出决定，为此我还是要做"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "path": "2143.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "教学时代>从古代起，很勤学家们给每个时期表示那一群的特征的名称。",
+      "predict_sentence": "教学时代>从古代起，很勤学家们给每个时期表示那一群的特征的名称。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "现在，很勿人认为现在是教空时代。",
+      "predict_sentence": "现在，很多人认为现在是知识经济时代。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "这是因为比过去相比，现在非常难看没有数学的地方。",
+      "predict_sentence": "这是因为和过去相比，现在非常难看到没有数学的地方。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "对现代人来说，随处随时看数字已经成为了一件理所当然的事情。",
+      "predict_sentence": "对现代人来说，随处随时看数字已经成为了一件理所当然的事情。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "那我来进一讲为什14现代人离不开数学和教学给我们什么影响以及带来了哪些便利。",
+      "predict_sentence": "那我来进一讲为什么14现代人离不开数学和教学给我们什么影响以及带来了哪些便利。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "首先，为什么教学成为与多们的生活密切的部分呢？",
+      "predict_sentence": "首先，为什么教学成为学生们的生活密切的部分呢？"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "这就是电脑的影的。",
+      "predict_sentence": "这就是电脑的影响。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "迄今为止，在人类历史中有物样的发展和变化，但电脑的出现染了我们生活的一切。",
+      "predict_sentence": "迄今为止，在人类历史中有与众不同的发展和变化，但电脑的出现改变了我们生活的一切。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "因为电脑是以数字而构成的，所以我们的生活也越与电脑密切越与数宇密切的关系。",
+      "predict_sentence": "因为电脑是由数字构成的，所以我们的生活也与电脑密切越与数宇密切的关系。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "那随着人类和数学的关系越来越密切，我们生活中有哪些便利呢？",
+      "predict_sentence": "那随着人类和数学的关系越来越密切，我们生活中有哪些便利呢？"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "其实有无数的便利。",
+      "predict_sentence": "其实有无数的便利之处。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "其中对我来说是便利的却是支付的方式。",
+      "predict_sentence": "其中对我来说是便利的却是支付方式。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "现在大创数人使用手机支付，这就是网络的数字、知界我们生活中没有数字的话，我们可费会跟古",
+      "predict_sentence": "现在大多数人使用手机支付，这就是网络的数字、知界我们生活中没有数字的话，我们会跟古"
+    }
+  ]
+}

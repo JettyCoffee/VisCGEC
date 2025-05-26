@@ -1,0 +1,70 @@
+{
+  "path": "3333.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与实体店突体书店现代社会中，虽然面临着同给书店和电子书的意事。",
+      "predict_sentence": "我与实体店突体书店现代社会中，虽然面临着同给书店和电子书的意义。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "但仍然有执特的力和不可替代的价值。",
+      "predict_sentence": "但仍然有独特的力和不可替代的价值。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "首先，实体书店提供了个与书籍志窗的空间。",
+      "predict_sentence": "首先，实体书店提供了个与书籍往来的空间。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "可以感受纸张的质感，甚至通过书架的摆孜发现一些意想不到的好书。",
+      "predict_sentence": "可以感受纸张的质感，甚至通过书架的摆放发现一些意想不到的好书。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "这种体验是电了书无法复制的。",
+      "predict_sentence": "这种体验是电子书无法复制的。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "其次，实体书店是一个文化交流的场所。",
+      "predict_sentence": "其次，实体书店是一个文化交流的场所。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "许多书店会有读者可以与作者面对沟通的活动。",
+      "predict_sentence": "许多书店会有读者可以与作者面对面沟通的活动。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "这可以获得更多的阅读后发，然而，随着网上购物的普及，许多书店逐渐面临着生存压力。",
+      "predict_sentence": "这可以获得更多的阅读后发，然而，随着网上购物的普及，许多书店逐渐面临着生存压力。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "这情况下，书店通过多元化的经营来说应了市场变化。",
+      "predict_sentence": "这情况下，书店通过多元化的经营来说适应了市场变化。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "此如销售文创产品、艺术品等。",
+      "predict_sentence": "诸如销售文创产品、艺术品等。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "这不仅丰富了书店的功能，世让它们在竞争激烈的市场牛找到了一条生存的总结，实体书店通过各种各种的挑战",
+      "predict_sentence": "这不仅丰富了书店的功能，使让它们在竞争激烈的市场牛找到了一条生存的总结，实体书店通过各种各种的挑战"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "当我了一个文化和思想的传摄者。",
+      "predict_sentence": "我当了一个文化和思想的传摄者。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "我觉得实体书店有丰富文化生活的重要责任。",
+      "predict_sentence": "我觉得实体书店有丰富人们文化生活的重要责任。"
+    }
+  ]
+}

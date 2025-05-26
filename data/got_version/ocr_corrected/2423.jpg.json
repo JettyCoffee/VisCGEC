@@ -1,0 +1,65 @@
+{
+  "path": "2423.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与购物新方式新几年来，随着互联网的发展，“直播间下单”成为了我的新宠。",
+      "predict_sentence": "我与购物新方式新几年来，随着互联网的发展，“直播间下单”成为了我的新宠。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "这种新的购物方式从我来到中国之后就开始出现在我生活里。",
+      "predict_sentence": "这种新的购物方式从我来到中国之后就开始出现在我的生活里。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "以前，在某个App上可以直接买到东西而不用到实体店对我来说已经很先进了。",
+      "predict_sentence": "以前，在某个App上可以直接买到东西而不用到实体店的情况对我来说已经很先进了。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "可是这种购物方式的缺点就是很难掌握产品的质量与它符合自己的程度。",
+      "predict_sentence": "可是这种购物方式的缺点就是很难掌握产品的质量与它符合自己需要的程度。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "后来，直播慢慢地进入我的生活，主播的一些甜言蜜语非常讨人喜爱。",
+      "predict_sentence": "后来，直播慢慢地进入我的生活，主播的一些甜言蜜语非常讨人喜爱。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "是然知道这只是他们的营销技巧，但作为一个月人我对这些优惠面前真是毫无抵抗力。",
+      "predict_sentence": "是然知道这只是他们的营销技巧，但作为一个月人我对这些优惠面前真是毫无抵抗力。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "什么是“最后一单”、“与上下单打五折”等这些话就是我的致命弱点。",
+      "predict_sentence": "什么是“最后一单”、“与上下单打五折”等这些话就是我的致命弱点。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "不可否认，“直播间下单”有时候已经帮我讲了不少雷。",
+      "predict_sentence": "不可否认，“直播间下单”有时候已经帮我讲了不少理。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "在主播正在介绍一下产品的时候，我可以直接在评论区下面留言我的空间或我想主播更清楚地说明什么",
+      "predict_sentence": "在主播正在介绍一下产品的时候，我可以直接在评论区下面留言我的空间或我想主播更清楚地说明什么"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "怎样只要对一分钟不到我就得到了自己要的答案。",
+      "predict_sentence": "怎样只要对一分钟不到我就得到了自己要的答案。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "不仅如此，“直播间下单”还可以享受很多享福利，让这份钱话得更值。",
+      "predict_sentence": "不仅如此，“直播间下单”还可以享受很多享福利，让这份钱花得更值。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "另外，有很多主播非常幽默",
+      "predict_sentence": "另外，有很多主播非常幽默"
+    }
+  ]
+}

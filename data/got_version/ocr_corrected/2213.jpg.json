@@ -1,0 +1,100 @@
+{
+  "path": "2213.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上川越玲条我们应该如何看待压力提起",
+      "predict_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上川越玲条我们应该如何看待压力提起"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "[UNK]压力[UNK]一词",
+      "predict_sentence": "[UNK]压力[UNK]一词"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "大多数的人都会抱有负面的想法。",
+      "predict_sentence": "大多数的人都会抱有负面的想法。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我认为压力有好有坏，关键在于我们怎么来看待它。",
+      "predict_sentence": "我认为压力有好有坏，关键在于我们怎么来看待它。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我认为从有记忆那一刻起就会有压力，并而且人只能短暂的忘记压力，它不可能消失不见。",
+      "predict_sentence": "我认为从有记忆那一刻起就会有压力，并且人只能短暂的忘记压力，它不可能消失不见。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "现在的我也有压力，对未来感到迷茫，迁没有找到属于自己的万向，但是我认为有压力并不是一件坏事",
+      "predict_sentence": "现在的我也有压力，对未来感到迷茫，既没有找到属于自己的方向，但是我认为有压力并不是一件坏事"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "只要能正确面对压力就有可能会得到想要的结果。",
+      "predict_sentence": "只要能正确面对压力就有可能会得到想要的结果。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "在我记忆中，我压力最大的一次事情发生在初中阶段。",
+      "predict_sentence": "在我记忆中，我压力最大的一次事情发生在初中阶段。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "我们的英诺老师要求我们每个人都要自己准备任何一个话题的故事，做成PPT在全班人面前分写",
+      "predict_sentence": "我们的英诺老师要求我们每个人都要自己准备任何一个话题的故事，做成PPT在全班人面前分写"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "当时的我是英语课代表，所以老师要我第一个分享。",
+      "predict_sentence": "当时的我是英语课代表，所以老师要我第一个分享。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "非常碰记的是我要发表的那天刚好又是校园开改日。",
+      "predict_sentence": "非常碰巧的是我要发表的那天刚好又是校园开校日。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "一下子有了两个压力，我都不知道该如何是好了。",
+      "predict_sentence": "一下子有了两个压力，我都不知道该如何是好了。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "但是，再怎么逃避还是要面对的，我是好话题，写好稿了，来找老师帮忙检查，还在家里一遍一遍的练习。",
+      "predict_sentence": "但是，再怎么逃避还是要面对的，我是好话题，写好稿了，来找老师帮忙检查，还在家里一遍一遍的练习。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "冻累了就听听看东放松一下。",
+      "predict_sentence": "冻累了就听听看音放松一下。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "最终在分享当天取得了非常好的结果，狂过这次的经历，我获得了经验，在那天之任的发表时",
+      "predict_sentence": "最终在分享当天取得了非常好的结果，超过这次的经历，我获得了经验，在那天之任的发表时"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "就没有那么紧张了。",
+      "predict_sentence": "这样就没有那么紧张了。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "有压力是因为我们不清楚应该怎么做，但是不做的话，永远都不会知道，所以我们应该积极面对压力",
+      "predict_sentence": "有压力是因为我们不清楚应该怎么做，但是不做的话，永远都不会知道，所以我们应该积极面对压力"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "勇敢的挑战自己。",
+      "predict_sentence": "我勇敢地挑战了自己。"
+    },
+    {
+      "sentence_id": 18,
+      "source_sentence": "地",
+      "predict_sentence": "地"
+    }
+  ]
+}

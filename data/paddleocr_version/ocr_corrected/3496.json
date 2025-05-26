@@ -1,0 +1,60 @@
+{
+  "path": "3496",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "王飞022340我时职业理想在我心中看一个坚定的职业理想那就是成为一个成功的商人这一理想的种子早在我",
+      "predict_sentence": "王飞022340我师职业理想在我心中看一个坚定的职业理想那就是成为一个成功的商人这一理想的种子早在我"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "还时便己悄然种下因为",
+      "predict_sentence": "还时便已悄然种下因为"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我必母至祖失都是身分为商人他们以买卖车西的为生意用勤劳的双手和散锐的两业头脑力家族赢得了一份财富从小",
+      "predict_sentence": "我毕母至祖失都是身分为商人他们以买卖车西的为生意用勤劳的双手和散锐的两业头脑力家族赢得了一份财富从小"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "以来我对商业世界充满了无限的子夺与向往我之所以",
+      "predict_sentence": "以来我对商业世界充满了无限的斗志与向往我之所以"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "立志成为商人不仅仅是因为",
+      "predict_sentence": "立志成为商人不仅仅是因为"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "家人和祖先他们已经做过而有了比较稳定的根而是我对这个行业有热爱感从小我就开治帮可卖东西每一次卖出一个",
+      "predict_sentence": "家人 h 祖先他们已经做过而有了比较稳定的根而是我对这个行业有热爱感从小我就开治帮可卖东西每一次卖出一个"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "东西看到烦客用上我们的东西而对我们的东西有反馈就感觉很开心我现在梦想看有一天我能把家里卖的东西展育指",
+      "predict_sentence": "东西看到客人用上我们的东西而对我们的东西有反馈就感觉很开心我现在梦想看有一天我能把家里卖的东西展育指"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "展到国际的最台能做到国际写的宏伟蓝图我深知这不仅需要扎实的向业知识更需要敏的市场洞察力为了实现这一职",
+      "predict_sentence": "展到国际的最台能做到国际写的宏伟蓝图我深知这不仅需要扎实的专业知识更需要敏的市场洞察力为了实现这一职"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "业理我深知自己要付出不少的努力来中国也是共中的一个目标因为",
+      "predict_sentence": "业理我深知自己要付出不少的努力来中国也是其中的一个目标因为"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "要地商业拓屋到国际性所以",
+      "predict_sentence": "要地商业拓租到国际性所以"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "中文和英文这些知识要学",
+      "predict_sentence": "中文和英文这些知识要学"
+    }
+  ]
+}

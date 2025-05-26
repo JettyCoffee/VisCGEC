@@ -1,0 +1,60 @@
+{
+  "path": "3513.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "美迪安娜12212千4045我的理想那些我从小时候对很多事情最艺趣，比如刚平始我想成为一今世身教练",
+      "predict_sentence": "美迪安娜12212千4045我的理想那些我从小时候对很多事情最感兴趣，比如刚平始我想成为一今世界教练"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "与来想当一今的作漫员，也有时候想过当律师，了翻自己，更了解自己对他u重墙感染趣。",
+      "predict_sentence": "我以前想当一今的作漫员，也有时候想过当律师，了解自己，更了解自己对他u重要有趣。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "目前，在我看来，我的理想职业是创世做自己的久的思考",
+      "predict_sentence": "目前，在我看来，我的理想职业是创世做自己的久的思考"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "当然我也明白这特的工作有很多用雅和座级需要有重对。",
+      "predict_sentence": "当然我也明白这特的工作有很多用雅和座级需要有重对。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "个很明确和有逻辑性的计划。",
+      "predict_sentence": "一个很明确和有逻辑性的计划。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "这样的计划我还没有完全地策划好，不过我的思梦已经有确定的方向。",
+      "predict_sentence": "这样的计划我还没有完全地策划好，不过我的思梦已经有确定的方向。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "首先，为了创业做自己的服装品牌，需要了解这多重提关的市场。",
+      "predict_sentence": "首先，为了创业做自己的服装品牌，需要了解这多重相关的市场。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我个人认为，需需更注重互联网相关的工作，所以我会研究回路各种平的两店，而为了积累经验",
+      "predict_sentence": "我个人认为，需需更注重互联网相关的工作，所以我会研究回路各种平的两店，而为了积累经验"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "习以直己先需要他品牌的产品在网上去卖。",
+      "predict_sentence": "习以制己先需要他品牌的产品在网上去卖。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "这持能的生活更加了解互联四是怎u工作时，而且现在的市场流行什u。",
+      "predict_sentence": "这持能的生活更加了解互联网是怎u工作时，而且现在的市场流行什u。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "接着，同时我也如自己的个人就多发展，因为互联四最重事的是流量",
+      "predict_sentence": "接着，同时我也如自己的个人就多发展，因为互联网最重要是流量"
+    }
+  ]
+}

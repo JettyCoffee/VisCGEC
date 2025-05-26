@@ -1,0 +1,50 @@
+{
+  "path": "2250",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "题日肥中中国我中的中国留学主的和之后了会去外过所以",
+      "predict_sentence": "近日肥中中国我中的中国留学主的和之后了会去国外所以"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "这时后的我对中国的别是首路有点乱很的车超里面随的问品很人这些高路上有人有要钱晚上有很人去公国跳场舞这",
+      "predict_sentence": "这时候我对中国的别是首路有点乱很的车超里面随的问品很人这些高路上有人有要钱晚上有很人去公国跳场舞这"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "种印象虽这些年也了不少但是",
+      "predict_sentence": "种印象虽这些年也了不少但是"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "对我没什么很大的印的改交问题是来上海后我对中国的印象转了很多当我也不觉得中国都是福建那上海这个大城市",
+      "predict_sentence": "对我没什么很大的影响的改交问题是来上海后我对中国的印象转了很多当我也不觉得中国都是福建那上海这个大城市"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我在课上也看过好多次但是",
+      "predict_sentence": "我在课上也看过好多次但是一直"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "主要是",
+      "predict_sentence": "主要是"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "没去过没有便自己的眼晴看过来上海留学了人后我重新认知中国是一个很大很人的国家一个省像一个国家一样文化",
+      "predict_sentence": "没去过没有变自己的眼睛看过来上海留学了人后我重新认知中国是一个很大很人的国家一个省像一个国家一样文化"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "语言调惯都不同没有去这个地方这个我市你完全不知道这个城市的美丽我认力这就是中国吸引外同人的地方也是中",
+      "predict_sentence": "语言习惯都不同没有去这个地方这个我市你完全不知道这个城市的美丽我认为这就是中国吸引外国人的地方也是中"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "国最擅长的地",
+      "predict_sentence": "国最擅长的题"
+    }
+  ]
+}

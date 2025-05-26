@@ -1,0 +1,85 @@
+{
+  "path": "2619.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我喜欢的养生方式健康对每个人都非常重要、但我并不喜欢运动。",
+      "predict_sentence": "我所喜欢的养生方式健康对每个人都非常重要、但我并不喜欢运动。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "但是我已经二十一岁了。",
+      "predict_sentence": "但是我 already 二十一岁了。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "还不是跟高中生一样在课上运动、所以我为了健康做简单的养生方式。",
+      "predict_sentence": "还不是跟高中生一样在课上运动、所以我为了健康做简单的养生方式。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我做的是、散步，拉伸运动和按摩。",
+      "predict_sentence": "我做的是、散步，拉伸运动和按摩。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "都是有五分种的空也可以做的。",
+      "predict_sentence": "都是有五分钟的空也可以做的。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "我们学生是特别座的时间长。",
+      "predict_sentence": "我们学生是特别坐的时间长。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "一直座的活血派流动变差，身体会硬对身体不好。",
+      "predict_sentence": "一直坐的活血派流动变差，身体会硬对身体不好。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "有休息时间就去外国，一边晒方阳，一边呼吸新鲜的空气、做技伸。",
+      "predict_sentence": "有休息时间就去外国，一边晒太阳，一边呼吸新鲜的空气、做瑜伽。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "这样可以唤醒自己的身体，放松。",
+      "predict_sentence": "这样可以唤醒自己的身体，使之放松。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "欢的歌散步的话身体心情都会放松。",
+      "predict_sentence": "边听歌边散步的话身体心情都会放松。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "素的一石二鸟。",
+      "predict_sentence": "是一举两得。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "还有更好的是，散步锻炼身体后，可以睡个好觉。",
+      "predict_sentence": "还有更好的是，散步锻炼身体后，可以睡个好觉。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "你全自己觉得，一天让的很充实。",
+      "predict_sentence": "你权自己觉得，一天让的很充实。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "”你按摩也我觉得很好的养生方式。",
+      "predict_sentence": "”你也觉得按摩是很好的养生方式。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "自己做，去店里将落都很好，一下就解服吗了。",
+      "predict_sentence": "自己做，去店里将络都很好，一下就解服妈了。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "虽然我不太喜欢运动，但为了保持健康，我",
+      "predict_sentence": "虽然我不太喜欢运动，但为了保持健康，我"
+    }
+  ]
+}

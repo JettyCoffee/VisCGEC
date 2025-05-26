@@ -1,0 +1,80 @@
+{
+  "path": "2408.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我的高考雕关我是一名高中生，今年大三了，马上就要高考。",
+      "predict_sentence": "我的高考倒关我是一名高中生，今年大三了，马上就要高考。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "对我来说，高考是一仲在我人生中非常重要的事情，因为这会引响到我的未来的职业与生活。",
+      "predict_sentence": "对我来说，高考是一种在我人生中非常重要的事情，因为这会影响到我的未来的职业与生活。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我的理想职业是教师，从小我就向住能够当一名优秀的教师。",
+      "predict_sentence": "我的理想职业是教师，从小我就向往能够当一名优秀的教师。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我热爱中文和教育。",
+      "predict_sentence": "我热爱中文和教育。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "目前的目标就是学好中文和中国文化，让泵国人更加了解汉语、中国文化并了解中国的历史和风土人情。",
+      "predict_sentence": "目前的目标就是学好中文和中国文化，让荷兰人更加了解汉语、中国文化并了解中国的历史和风土人情。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "高考前一天，我感觉压力很大而且很紧张。",
+      "predict_sentence": "高考前一天，我感觉压力很大而且很紧张。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "妈妈看到我很难爱的样子就赶紧来抱住我，跟我聊天并问我的情况。",
+      "predict_sentence": "妈妈看到我很难过的样子就赶紧来抱住我，跟我聊天并问我的情况。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我低不住流眼泪地跟她说，她知道后就摸我的头同时跟我说“你放心，我知道你非带努力，你保容苦",
+      "predict_sentence": "我低不住流眼泪地跟她说，她知道后就摸我的头同时跟我说“你放心，我知道你非带努力，你保重苦"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "你肯定做保好，结果出来是什么样不重要，妈妈只希望你开开心心过日子，有我在",
+      "predict_sentence": "你肯定做好了，结果出来是什么样不重要，妈妈只希望你开开心心过日子，有我在"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "有什么烦脑的事情你都可以跟我说。",
+      "predict_sentence": "有什么烦恼的事情你都可以跟我说。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我感动地抱住妈妈说谢，我爱你。",
+      "predict_sentence": "我感动地抱住妈妈说：“谢谢你，我爱你。”"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "结果分数出来，我终于考上我向住的大学和理想的专业。",
+      "predict_sentence": "结果分数出来，我终于考上我向往的大学和理想的专业。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "多亏妈妈那一天来记我度过那一刻，不然我真的不必想象结果会是什么样。",
+      "predict_sentence": "多亏妈妈那一天提醒我度过那一刻，不然我真的不必想象结果会是什么样。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "这件事让我学到了，其实当你遇到困难的问题，你可以找你安心的人说话",
+      "predict_sentence": "这件事让我学到了，其实当你遇到困难的问题，你可以找你信任的人说话"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "说不定他会有很好的办法可以帮你解决问题这也是一种很好的解压方式。",
+      "predict_sentence": "说不定他会有很好的办法可以帮你解决问题这也是一种很好的减压方式。"
+    }
+  ]
+}

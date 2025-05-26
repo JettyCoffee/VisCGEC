@@ -1,0 +1,95 @@
+{
+  "path": "3756.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "关于实体书店小时候我经常去实体书店，但是随着网上书底的发晨，累近下怎么去实体书店。",
+      "predict_sentence": "关于实体书店小时候我经常去实体书店，但是随着网上书底的发展，近年来怎么去实体书店。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "书你喜欢去实体书正。",
+      "predict_sentence": "书你喜欢去实体书店。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "因为实体书的气气好。",
+      "predict_sentence": "因为实体书的气质好。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "而且可以定自读目己想读的书。",
+      "predict_sentence": "而且可以定自读自己想读的书。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "最旧世我在空的时候常常去史体书庄，但是我越来越心。",
+      "predict_sentence": "最近我在空的时候常常去史体书庄，但是我越来越心。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "我现在把文部分用几卡证。",
+      "predict_sentence": "我现在把文部分用机卡证。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "这两个书庄售有长处有短外。",
+      "predict_sentence": "这两本诗集销售有长处也有短处。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "去书庄日以是但感受良好的气国，还可以看书。",
+      "predict_sentence": "去书庄日以是但感受良好的气国，还可以看书。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "在军静的气包中，可以阅读会科书稿，这与图书馆相似。",
+      "predict_sentence": "在军静的气包中，可以阅读会科书稿，这与图书馆相似。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "但走如果是没有时间的过，就很难去整体书庄。",
+      "predict_sentence": "但若是没有时间去读书，就很难去整体书香。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "而且最行实体书店逐渐消失。",
+      "predict_sentence": "而且线下实体书店逐渐消失。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "同上书店的市场越来越大越来越发服。",
+      "predict_sentence": "同上书店的市场越来越大越来越发达。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "因个书庄很多想更的的人同向上书店。",
+      "predict_sentence": "因各书桩很多想更的的人同向上书店。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "我们还个，所以很多想更的的人同向上书店。",
+      "predict_sentence": "我们还个，所以很多想更的的人同向上书店。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "我们还个，所以很多想更的。",
+      "predict_sentence": "我们还够，所以很多想更的。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "而且要补换货也很早。",
+      "predict_sentence": "而且要退换货也很麻烦。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "但是同上书店没有直接读书的感觉虽然经过最未签或手机买书看，但也来用当末签或书的法会感到惊常",
+      "predict_sentence": "但是同上书店没有直接读书的感觉虽然经过最未签或手机买书看，但也来用当末签或书的法会感到惊常"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "所以不能书时间读书。",
+      "predict_sentence": "所以不能留时间读书。"
+    }
+  ]
+}

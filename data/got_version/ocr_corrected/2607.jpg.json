@@ -1,0 +1,75 @@
+{
+  "path": "2607.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我喜欢的运动从小到大，我一直都是个喜欢的“动”的我，年过一段时间，就会喜欢上一种”动”的方式。",
+      "predict_sentence": "从小到大，我一直都是个喜欢运动的“动”的人，过了一段时间，就会喜欢上一种“动”的方式。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "它带给我的是软不尽的快乐。",
+      "predict_sentence": "它带给我的是源源不断的快乐。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "在我的记忆里，在读小学时和那之前，我总是喜欢不被妈妈允许的“动”。",
+      "predict_sentence": "在我的记忆里，在读小学时和那之前，我总是喜欢不被妈妈允许的“行动”。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "比如，我喜我在雨后的水培里蹦蹦跳跳，弄脏一身。",
+      "predict_sentence": "比如，我喜欢在雨后的水池里蹦蹦跳跳，弄脏一身。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "或者在沙子堆里塔建一个属于我的城堡。",
+      "predict_sentence": "或者在沙子堆里搭建一个属于我的城堡。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "这些对于我来说也是一种运动。",
+      "predict_sentence": "这对我也是一种运动。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "上了初中，我认为自己不会再去做那些幼稚的“动”。",
+      "predict_sentence": "上了初中，我认为自己不会再去做那些幼稚的“事”。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "所以，我参加我过足球社团、羽毛球团，在运动会上也总有我的名字出现。",
+      "predict_sentence": "所以，我参加足球社团、羽毛球团，在运动会上也总有我的名字出现。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "虽然我总是坚持同一他动，但我能够喜欢上新的运动。",
+      "predict_sentence": "虽然我总是坚持同一运动，但我能够喜欢上新的运动。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "但是到了高中我不再喜欢身作上的“动”，而是脑袋里的“功我开始喜欢上了读书，喜欢了文字",
+      "predict_sentence": "但是到了高中我不再喜欢身体上的“动”，而是脑袋里的“功我开始喜欢上了读书，喜欢了文字"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "喜欢去思考这些文字和它们背后的作者的想的故事。",
+      "predict_sentence": "喜欢去思考这些文字和它们背后的作者的思想。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "截而现在，我喜欢的”动”更多了，有以前的也有新的，身体上的运动让我感受到多巴部分以的快乐",
+      "predict_sentence": "而现在，我喜欢的”动”更多了，有以前的也有新的，身体上的运动让我感受到多巴部分以的快乐"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "脑袋里的拥动则让我享受思与后的病及念。",
+      "predict_sentence": "脑袋里的涌动则让我享受思考后的病疾念。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "所以我热爱所有运动！",
+      "predict_sentence": "所以我热爱所有运动！"
+    }
+  ]
+}

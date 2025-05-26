@@ -1,0 +1,65 @@
+{
+  "path": "3634.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我们人类在地球上结己有了几个万年的质变武了。",
+      "predict_sentence": "我们人类在地球上进化已有几十万年的质变了。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "现在我们就来燃烧如合成少二氧化碳化碳地球变得舒服也让我们人类经的长久。",
+      "predict_sentence": "现在我们就来燃烧如合成少二氧化碳化碳地球变得舒服也让我们人类经的长久。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "营光我们要把我们日常生活中消耗的东西要减少使用，让地球变得绿绿的。",
+      "predict_sentence": "灯光我们要把我们日常生活中消耗的东西要减少使用，让地球变得绿绿的。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我们要把自己的生活从高碳生活慢慢的变成低碳生活，让然们一起把地球变得正常。",
+      "predict_sentence": "我们要把自己的生活从高碳生活慢慢地变成低碳生活，让他们一起把地球变得正常。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "结绕回来现在人们的生活都在浪费货物或者在消耗不可在生资源。",
+      "predict_sentence": "最近回来现在人们的生活都在浪费货物或者在消耗不可再生资源。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "现在的人们生活水平变高了就忘了从而首先组织是怎么一步到现在的生活。",
+      "predict_sentence": "现在的人们生活水平变高了就忘了首先从怎么一步到现在的生活。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "现在我们结飞出地球变暖了，很力不好的事也长慢慢的发生了。",
+      "predict_sentence": "现在我们几飞出地球变暖了，很力不好的事也长慢慢地发生了。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "就比如说全球变暖游平至也慢慢变高升高，人们居住出用地也在慢慢少，自然安里也慢慢变多。",
+      "predict_sentence": "就比如说全球变暖地球平均温度也在慢慢升高，人们居住区用地也在慢慢减少，自然灾害也慢慢增多。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "不知道那罡的病毒也慢慢在社会中出现，这都是我们人类造成的",
+      "predict_sentence": "不知道那些病毒也慢慢在社会中出现，这都是我们人类造成的"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "自然安雪是地球给我们人类的警告让我们要保顿护它不要让它在变暖了。",
+      "predict_sentence": "自然安息是地球给我们人类的警告让我们要保护它不要让它再变暖了。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "全是绿海菌的，我都能感受到地球在笑。",
+      "predict_sentence": "全是绿海菌的地球，我都能感受到地球在笑。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "而现",
+      "predict_sentence": "现今"
+    }
+  ]
+}

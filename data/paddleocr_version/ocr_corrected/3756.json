@@ -1,0 +1,65 @@
+{
+  "path": "3756",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "关于实体书店小时候我经常去实体书但是",
+      "predict_sentence": "关于实体书店小时候我经常去实体书但是"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "随着网上书店的发展最近不怎么去实体书我很观去实体书因为",
+      "predict_sentence": "随着网上书店的发展最近不怎么去实体店我很反对去实体店因为"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "实体正的气気好而且",
+      "predict_sentence": "实体正的气质好而且"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "可以亲自读自己想读的书最近也我在空的时候常常去变体书但是",
+      "predict_sentence": "可以亲自读自己想读的书最近我都在空的时候常常去变体书但是"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我越来越忙我现在大部分用风上书正这两个书店都有长外有短外去书日以先感受良好的気图还可以看书在牢静的气",
+      "predict_sentence": "我越来越忙我现在大部分用手机看正这两个书店都有长处和短处去看书日以先感受良好的气图还可以看书在宁静的气"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "中可以读各种籍这与图书馆相以但定知果没有时间的话就很难去体书正而且",
+      "predict_sentence": "中可以读各种籍这与图书馆相依存定知果没有时间的话就很难去体书真而且"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "最近实体书店逐渐准史网上书店的市场越来越大越来越发展因力这个网上书很方使近来达部分没时问所以",
+      "predict_sentence": "最近实体书店逐渐准则网上书店的市场越来越大越来越发展因为这个网上书很方便近来打部分没时间所以"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "很多想买的人用网上书店我们还可以提前在上看而但买货也很早但是",
+      "predict_sentence": "很多想买的人用网上书店我们还可以提前在网上看而但买货也很早但是"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "上书没有通接的感觉虽然",
+      "predict_sentence": "上书没有通洁的感觉虽然"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "通过显未器或手机买书看但如果",
+      "predict_sentence": "通过阅读器或手机买书看但如果"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "用示器试书的话眼情他会感到带所以",
+      "predict_sentence": "用视力测试的话眼睛他感到会感到戴所以"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "不长时问读书",
+      "predict_sentence": "读书不长时问读书"
+    }
+  ]
+}

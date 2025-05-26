@@ -1,0 +1,60 @@
+{
+  "path": "3627",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "与实体书店书籍是人类进步的階到在储存着火量的知识这些知识是人类进步的关挺不过",
+      "predict_sentence": "与实体书店书籍是人类进步的阶到在储存着火量的知识这些知识是人类进步的关键不过"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "日到现在我驱经很久没见到实体书了现在基本上大家都是在手机上看电子版很少有人去买实体书了不过",
+      "predict_sentence": "日到现在我驱经很久没见到实体书了现在基本上大家都是在手机上看电子版很少有人去买实体书了不过"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我的话到是常常去书店今天我想分享下关手我的一下看法和感慢在我小时候差本每个人会去书后天书像上课需要的",
+      "predict_sentence": "我的话倒是常常去书店今天我想分享下关于我的一下看法 and感觉在我小时候读书需要上课需要"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "书童话图书各种各料的都有而且",
+      "predict_sentence": "书童话图书各种各样的都有而且"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "因为",
+      "predict_sentence": "因为"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "老师会推荐种著作所以",
+      "predict_sentence": "老师会推荐这著作所以"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "法书店的频率很稿并且",
+      "predict_sentence": "法书店的频率很低并且"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "火家春书目都是了学习我也不例外回到现我也学常去书现在我去书虏是因为",
+      "predict_sentence": "寒假读书目都是了学习我也不例外回到现我也学常去书现在我去书目的是因为"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "想买这本书来当念品战者当做机物送出去去书店的频率没小时那么高但我也还是去去的只不过",
+      "predict_sentence": "想买这本书来当念品战者当做礼物送出去去书店的频率没小时那么高但我也还是去去的只不过"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "目的没有这么高大上了有了电子版大家直接在机上看就完事我认为书籍是传知识的重要物品不管电子版达是实体书",
+      "predict_sentence": "目的没有这么高大上了有了电子版大家直接在机上看就完事我认为书籍是传知识的重要物品不管电子版还是实体书"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "都是传递知次的重漏头",
+      "predict_sentence": "都是传递知识的重头戏"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "path": "2213",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "越玲奈我该如何看待压数力提起压力词大多的人都关会键抱在有有有我认为压力好t坏于我们怎么去看待它我人从",
+      "predict_sentence": "越玲奈我该如何看待压力力提起压力词大多的人都关键抱在有有有我认为压力好t坏于我们怎么去看待它我人从"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "有记忆那认为刻起就会有压消力并而且",
+      "predict_sentence": "有记忆那认为刻起就会有压力并且"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "人只能短暂的忘记压力它不可能失不见现在的我也有压力对未来感到还2的方向但是",
+      "predict_sentence": "人只能短暂地忘记压力它不可能失不见现在的我也有压力对未来感到还2的方向但是"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我认为只要能正确面对压力就有可能会得到想要的结果在我记忆中大的一次事情发生在初中阶段我们的英语老人都",
+      "predict_sentence": "我认为只要能正确面对压力就有可能会得到想要的结果在我记忆中大的一次事情发生在初中阶段我们的英语老人都"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "要自己准备任何一个话题是英语课代表所以",
+      "predict_sentence": "要自己准备任何一个话题是英语课代表职责。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "老师要我第一个分享非常碰巧的是我要发表的那天刚好又是校国开放好了但是",
+      "predict_sentence": "老师要我第一个分享非常碰巧的是我要发表的那天刚好又是校内开放好了但是"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "再怎么逃避还是要面对的我定好话题写好稿子拜托老师帮忙检查还在家里里一遍一遍的练习练累了就听听音乐放松",
+      "predict_sentence": "再怎么逃避还是要面对的我定好话题写好稿子拜托老师帮忙检查还在家里里一遍一遍地练习练累了就听听音乐放松"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "一f最终在分分享当天取得了非常好的结果经过这次的经历我获得了经验在那天之的时就没有那么张3有压力是因",
+      "predict_sentence": "一f最终在分分享当天取得了非常好的结果经过这次的经历我获得了经验在那天的时候就没有那么紧张有压力是因为"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "为我们不清楚应该怎做但是",
+      "predict_sentence": "我们为不清楚应该怎么做但是"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "不做的话永远都不会知道所以",
+      "predict_sentence": "不做的话永远都不会知道所以"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我们该积极面对压力勇敢的挑战自2地",
+      "predict_sentence": "我们该积极面对压力勇敢地挑战自2地"
+    }
+  ]
+}

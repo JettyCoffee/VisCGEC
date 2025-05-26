@@ -1,0 +1,85 @@
+{
+  "path": "2330.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与购物新方式。",
+      "predict_sentence": "我乐于购物新方式。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "如今，新的购物系统在中国特别受欢迎，半个小时内送货是个非常方便的购物系统。",
+      "predict_sentence": "如今，新的购物系统在中国特别受欢迎，这个半小时内送货是非常方便的购物系统。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "对于那些正在工作的人要说，这非常方便。",
+      "predict_sentence": "对于那些正在工作的人来说，这非常方便。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "以一位普通员工为例，他每周工作五天。",
+      "predict_sentence": "以一位普通员工为例，他每周工作五天。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "他每天都假票，经常去商店，但你对是有精力。",
+      "predict_sentence": "他每天都请假，经常去商店，但他还是有精力。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "这也适用于时间。",
+      "predict_sentence": "这也适用于时间。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "首先，你需要花时间去商店，在内部选择产品，然后回。",
+      "predict_sentence": "首先，你需要花时间去商店，在内部选择产品，然后回来。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "如果你天车，这是沧油的额外费用。",
+      "predict_sentence": "如果你换车，这是燃油的额外费用。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "对我来说，我也使用快递，但并不经常。",
+      "predict_sentence": "对我来说，我也使用快递服务，但并不经常使用。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "这可能是一种古老的或走路和选择食物的习惯。",
+      "predict_sentence": "这可能是一种古老的关于走路和选择食物的习惯。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "在没有少量产品的情况下，运输产品非常方便，如果我意识到我要买一大笔东西，当你仅要买食物",
+      "predict_sentence": "在没有大量产品的情况下，运输产品非常方便，如果我意识到我要买一大笔东西，当你仅要买食物"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "还要买家里的必需品时，我更有可能去疯店，自信地选择所有必需品并购买。",
+      "predict_sentence": "还要买家里的必需品时，我更有可能去疯店，自信地选择所有必需品并购买。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "在俄罗斯，这对我来说非常方便，因为我住在一个小造址里，远离大型超市。",
+      "predict_sentence": "在俄罗斯，这对我来说非常方便，因为我住在一个小地址里，远离大型超市。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "当我搬到中国时，我对交付产品的态度在协调方面发生了变化。",
+      "predict_sentence": "当我搬到中国时，我对交付产品的态度在协调方面发生了变化。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "上海是个大城市，开车不太方便。",
+      "predict_sentence": "上海是个大城市，交通不太方便。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "在这里订购和送货更容易，也非常方便。",
+      "predict_sentence": "在这里订购和送货更容易，也非常方便。"
+    }
+  ]
+}

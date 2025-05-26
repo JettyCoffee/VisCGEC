@@ -1,0 +1,95 @@
+{
+  "path": "3702.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "年的成长2024年2月25号来上海了。",
+      "predict_sentence": "年的陈程2024年2月25号来上海了。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "这是2024年2月25号来上海了。",
+      "predict_sentence": "这是2024年2月25号来上海的。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "这是最大的一个经验。",
+      "predict_sentence": "这是最重要的一个经验。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我赶来上海的时候，虽然活水平没有那么高，人们就任以后不懂，只是天东西没问题了。",
+      "predict_sentence": "我赶来上海的时候，虽然生活水平没有那么高，人们就仁以后不懂，只是天东西没问题了。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "时间过得特别快，我在华师大学习大概二学期结束了。",
+      "predict_sentence": "时间过得特别快，我在华师大学习大概两个学期结束了。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "然后我有最后一次老本科生的考试。",
+      "predict_sentence": "然后我有一次最后一次老本科生的考试。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "那天我感觉我有一点自信的。",
+      "predict_sentence": "那天我感觉我有一点自信。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我会觉得这以前老师说得话得很能理解，可以沟通了，暑假结束后，通知来了。",
+      "predict_sentence": "我会觉得这以前老师说得话很能理解，可以沟通了，暑假结束后，通知来了。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "我知道通过本科生我真的很开心，还知道自己的成长。",
+      "predict_sentence": "我知道通过本科阶段的学习我真的很开心，还知道自己的成长。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "其实我本李没有自信的人，但通过这个经验，我也可以的，我变成有自信的人。",
+      "predict_sentence": "其实我本身没有自信的人，但通过这个经验，我也可以的，我变成有自信的人。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "开始留学第二个学期了。",
+      "predict_sentence": "留学开始第二个学期了。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我很紧张，我能不能和朋友聊天的担心，但朋友们，老师们特燕情的人所以我可以放松地上课。",
+      "predict_sentence": "我很紧张，我能不能和朋友聊天的担心，但朋友们，老师们特关心的人所以我可以放松地上课。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "每天在上课中很多少听课，很努力学习。",
+      "predict_sentence": "每天在课堂上很少听课，很努力学习。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "这事情都坚持我最重要的事就是每天去上课。",
+      "predict_sentence": "这件事让我坚持最重要的事就是每天去上课。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "所以我每天上一空看起来的。",
+      "predict_sentence": "所以我每天上一眼看起来的。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "我还不知道有没有效果。",
+      "predict_sentence": "我还不知道有没有效果。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "我想给自己做的所有任务。",
+      "predict_sentence": "我想给自己定的所有任务。"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "以后也这事情都像？",
+      "predict_sentence": "以后这类事情都会怎样呢？"
+    }
+  ]
+}

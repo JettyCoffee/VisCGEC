@@ -1,0 +1,55 @@
+{
+  "path": "3783.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "河采妍我小时候，实体书店是我最喜欢的地方哥次和父母去书店买一本重活书，都是让我兴奋的时光。",
+      "predict_sentence": "河采妍我小时候，实体书店是我最喜欢的地方和父母去书店买一本重活书，都是让我兴奋的时光。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "那时的书店不仅是买书的地方，很多小孩子们都在那边可以看看书，也有一些玩具，还有看电影",
+      "predict_sentence": "那时的书店不仅是买书的地方，很多小孩子们都在那边可以看看书，也有一些玩具，还有电影看"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "国画等很多活动。",
+      "predict_sentence": "国画等很多活动。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "然而，随着年龄增长和生活节奏加快，我去实体书店的频率还渐减少。",
+      "predict_sentence": "然而，随着年龄增长和生活节奏加快，我去实体书店的频率还渐减少。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "特别是高中生阶段后，电子书和风购的便利让我更少踏入书店去年秋夫",
+      "predict_sentence": "特别是高中生阶段后，电子书和网购的便利让我更少踏入书店去年秋夫"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "我特意去了韩国的一家书店看看最近有什么好看的书。",
+      "predict_sentence": "我特意去韩国的一家书店看看最近有什么好看的书。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "我想着带来中国个人的时候看看。",
+      "predict_sentence": "我打算来中国的时候顺便看看。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我好久没有去了实体书店然后到了第一感觉是现在的书店是好像博物馆一样，还有咖啡厅一样。",
+      "predict_sentence": "我好久没有去了实体书店然后到了第一感觉是现在的书店是好像博物馆一样，还有咖啡厅一样。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "因为书店里有很多作品，有咖啡味道。",
+      "predict_sentence": "因为书店里有很多书，有咖啡味道。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "我很喜欢这种气泉她今，去实体书店己不只是买书，而是",
+      "predict_sentence": "我很喜欢这种气泉她今，去实体书店已不只是买书，而是"
+    }
+  ]
+}

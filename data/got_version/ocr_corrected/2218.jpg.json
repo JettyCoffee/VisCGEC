@@ -1,0 +1,15 @@
+{
+  "path": "2218.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上中山语惠我作我作我作我作我作我时作作作作",
+      "predict_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上中山语惠我做我做我做我做我做我做做做做"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "作作作作作作时作作作作作作作作业",
+      "predict_sentence": "做做做做做做做做做做做做做作业"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "path": "2205",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "前有很多压力因为",
+      "predict_sentence": "近有很多压力因为"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "上大学以后惯的问题弟一次来中国吃的也生活的也都是不一样我们的国家所以",
+      "predict_sentence": "上大学以后惯的问题第一次来中国吃的也生活的也都是不一样我们的国家所以"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "压力很大最近我比交压力很小我找到了我的解压方式我喜观听音乐所以",
+      "predict_sentence": "压力很大最近我比较压力很小我找到了我的解压方式我喜观听音乐所以"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "压力很大的时候听音乐有时候听音乐有一点无联我的朋友说又听音乐又运动的话更好我智来不喜观运动但是",
+      "predict_sentence": "压力很大的时候听音乐有时候听音乐有一点无聊我的朋友说又听音乐又运动的话更好我智来不喜欢运动但是"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "现在越来起喜观运动所以",
+      "predict_sentence": "现在越来越喜欢运动所以"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "我每次收到压力的时候又听音乐又运动",
+      "predict_sentence": "我每次受到压力的时候又听音乐又运动"
+    }
+  ]
+}

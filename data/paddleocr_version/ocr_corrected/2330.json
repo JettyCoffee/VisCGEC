@@ -1,0 +1,55 @@
+{
+  "path": "2330",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与购物新方式如今新的购物系统在中国特别受观迎半个小时内送货是个非常方便的购物系统对于那些正在工作的",
+      "predict_sentence": "我与购物新方式如今新的购物系统在中国特别受欢迎半个小时内送货是个非常方便的购物系统对于那些正在工作的"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "人当说这非常方便以一位普通员工为例他每周工作五天他每天都很累经常去商店但他就是有精力这适用于时间首先",
+      "predict_sentence": "人当说这非常方便以一位普通员工为例他每周工作五天他每天都很累经常去商店但他就是有精力这适用于时间首先"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "你需要花时间去商店在内部选择产品然后",
+      "predict_sentence": "你需要花时间去商店在里面选择产品然后"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "回如果",
+      "predict_sentence": "回如果"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "你天车这是汽油的额外费用对我来说我也使用快弟但并不经常这可能是一种古老的走路和选择食物的习惯在没有少",
+      "predict_sentence": "你天车这是汽油的额外费用对我来说我也使用快滴但并不经常这可能是一种古老的走路 and选择食物的习惯在没有少"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "量产品的情况下运输产品非常方便如果",
+      "predict_sentence": "量产品的情况下运输产品非常方便如果"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "我意识到我要买一大笔东西当你仅要买食物还要买家里的必需品时我更有可能去商店目信地洗择所有心需品并购买",
+      "predict_sentence": "我意识到我要买一大笔东西当你仅要买食物还要买家里的必需品时我更有可能去商店目信地选择所有必需品并购买"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "在俄罗斯这对我来说非常方便因为",
+      "predict_sentence": "在俄罗斯这对我来说非常方便。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "我住在一个小遗址里远离大型超市当我搬到中国时我对交付产品的态度在协调方面发生了变化上海是个大城市开车",
+      "predict_sentence": "我住在一个小遗址里远离大型超市当我搬到中国时我对交付产品的态度在协调方面发生了变化上海是个大城市开车"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "不太方便在这里订购和送货更容易也非常方便",
+      "predict_sentence": "不太方便在这里订购和送货更容易也非常方便"
+    }
+  ]
+}

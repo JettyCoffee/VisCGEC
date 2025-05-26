@@ -1,0 +1,100 @@
+{
+  "path": "2194.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "说明：1.题目根据上面的材料自己确定全源昌2.字数要求300字以上我的压力本来我是没有压力的人。",
+      "predict_sentence": "说明：1.题目根据上面的材料自己确定全源昌2.字数要求300字以上我的压力本来我是没有压力的人。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "这是乐观性格的影响。",
+      "predict_sentence": "这是乐观性格使然。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "所以发生什么不舒服的情况的话，我会想一想“可以，这也可以。",
+      "predict_sentence": "所以发生什么不舒服的情况的话，我会想一想“可以，这也就可以。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "但是我成了大回荣常受到较多压力。",
+      "predict_sentence": "但是我成了大活儿容常受到较多压力。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "景近压力的原因有两种。",
+      "predict_sentence": "近期压力的原因有两种。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "一种是实习的压力。",
+      "predict_sentence": "一种是学习的压力。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "周二、三、四有课，所以我国一、五只有两天去变习，但压力非常大。",
+      "predict_sentence": "周二、三、四有课，所以我国一、五只有两天去练习，但压力非常大。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "早上九点上班，眼上六点下班让我累死了，这是对我第一次公司生活：所以更累了。",
+      "predict_sentence": "早上九点上班，晚上六点下班让我累死了，这是对我第一次公司生活：所以更累了。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "重雷是工作内容。",
+      "predict_sentence": "重推是工作内容。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "上班以后，用电脑发微信广告公司的空室。",
+      "predict_sentence": "上班以后，用电脑发微信广告公司的空时。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "但加好几个人的微信，突然不能加微信因为频繁加的。",
+      "predict_sentence": "但加好几个人的微信，突然不能加微信因为频繁加的。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "这样的话，次有什么做的，只忘等一等。",
+      "predict_sentence": "这样的话，您有什么做的，只管等一等。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "所以一天中四个小时有空，浪费时间，没有什么成取感。",
+      "predict_sentence": "所以一天中只有四个小时有空，浪费时间，没有什么成就感。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "第二个压力是关于论之的。",
+      "predict_sentence": "第二个压力是关于论文的。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "四年级学生一个学期左右的时间写论文，这中每一个过程都很难。",
+      "predict_sentence": "四年级学生一个学期左右的时间写论文，这个每一个过程都很难。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "要通过干题报告的自档考试，要选好的题目，要写开题报告和德大，需要克服的过程很多。",
+      "predict_sentence": "要通过干题报告的自档考试，要选好的题目，要写开题报告和德大，需要克服的过程很多。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "现在我可能会操作压力，实习的空时间我写实习日记或作作业，学自格考试的内容，此外论文的题目也选完了。",
+      "predict_sentence": "现在我可能会操作压力，实习的空时间我写实习日记或作作业，学自格考试的内容，此外论文的题目也选完了。"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "进行过程的一部分以前我发然的事情都是定没有什么的。",
+      "predict_sentence": "进行过程的一部分以前我发生的事情都是定没有什么的。"
+    },
+    {
+      "sentence_id": 18,
+      "source_sentence": "所以压力的话，一步一步克服能可能会解压。",
+      "predict_sentence": "所以面对压力的话，一步一步克服可能会解压。"
+    }
+  ]
+}

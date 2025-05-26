@@ -1,0 +1,45 @@
+{
+  "path": "2302.JPG",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "对这个学代来说新型只物方或一定是在网上购买东西的，现在有很多应用可以购买的。",
+      "predict_sentence": "对这个学代来说新型智能设备或一定是在网上购买东西的，现在有很多应用可以购买的。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "而是很方便物突什么都有。",
+      "predict_sentence": "而是很方便食物什么都有。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "比如，纸巾，宿舍该用的东西，因为在拼多可以买很多数量但价格没有那么贵挑选会名们大学生的。",
+      "predict_sentence": "比如，纸巾，宿舍该用的东西，因为在拼多多可以买很多数量但价格没有那么贵挑选会名们大学生的。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "在淘宝他喜欢买品牌的产品的，因为在淘宝比拼多多更可靠一点。",
+      "predict_sentence": "在淘宝他喜欢买品牌的产品的，因为在淘宝比拼多多更可靠一点。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "在中国网上买东西比我的国家很方便因为在我的国家在网上买东西时如果不想受了还是东西坏了很慢处理的",
+      "predict_sentence": "在中国网上买东西比我的国家很方便因为在我的国家在网上买东西时如果不想受了还是东西坏了很慢处理的"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "有些店也不愿意很东西两在网上买东西是很方便的但也要注意质量不始，送到家跟网上不一样。",
+      "predict_sentence": "有些店也不愿意东西两在网上买东西是很方便的但也要注意质量不实，送到家跟网上不一样。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "要看好店辅星不是期个店实的是正品不是假的，网上都有优点和缺点抢们要注意要会灵。",
+      "predict_sentence": "要看好店辅星不是起个店是的是正品不是假的，网上都有优点和缺点抢们要注意要会灵。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "这样会理了好的东西",
+      "predict_sentence": "这样会理了好的东西。"
+    }
+  ]
+}

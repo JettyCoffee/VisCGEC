@@ -1,0 +1,65 @@
+{
+  "path": "3505.png",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "的理想职业最每个人都有各自心目中的理想职业，这些理想是我们前进的动力，也是我们对未来充满期待的源头。",
+      "predict_sentence": "每个人都有各自心目中的理想职业，这些理想是我们前进的动力，也是我们对未来充满期待的源头。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "在我的心目之中，最令我感到理想的职业是当一名教师。",
+      "predict_sentence": "在我的心目之中，最令我向往的职业是教师。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "我想成为一名教师是因为我对学习、对知识的热爱与追求。",
+      "predict_sentence": "我想成为一名教师是因为我对学习、对知识的热爱与追求。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "我会希望能我所学的知识与所有过的经、经验传播给他人。",
+      "predict_sentence": "我希望能将我所学的知识与所有的经历和经验传播给他人。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我相信知识相有无穷的力量，它可以改变一个人的一生，也能改变一个人的心态，心境。",
+      "predict_sentence": "我相信知识相有无穷的力量，它可以改变一个人的心境，也能改变一个人的心态，甚至改变一个人的一生。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "要仅如此，它还能推动一个城市、一个国家或一整个文明的发展。",
+      "predict_sentence": "但仅如此，它还能推动一个城市、一个国家或一整个文明的发展。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "而教师就起了主导作用，他是知识的传播者，也是学生们得路人。",
+      "predict_sentence": "而教师就起了主导作用，他是知识的传播者，也是学生们得良师益友。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "为了果现自己的职业理想，我需要蜡付出很多努力去不断地学习，用来拓展自己的知识量",
+      "predict_sentence": "为了果现自己的职业理想，我需要得多付出努力去不断地学习，用来拓展自己的知识量"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "提升自己的各项技能与知识面。",
+      "predict_sentence": "提升自己的各项技能与知识水平。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "通过在大学课堂上所学的教学法，来进行操练运用。",
+      "predict_sentence": "通过在大学课堂上学习的教学法，来进行操练运用。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "然后积累了教学经验去完善并提高自身的教学能力。",
+      "predict_sentence": "然后积累了教学经验去完善并提高自身的教学能力。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "因为我是一个比室内倾的人，所以需要付出比别人更多的努力去弥补自身性格上的缺失",
+      "predict_sentence": "因为我是一个内向型的人，所以需要付出比别人更多的努力去弥补自身性格上的缺失"
+    }
+  ]
+}

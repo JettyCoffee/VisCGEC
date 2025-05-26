@@ -1,0 +1,45 @@
+{
+  "path": "2564.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我没有在大学上的压力，但有一个未来的压力，因为我们的人生好长所以我们要做一个美好的人生的。",
+      "predict_sentence": "我没有在大学上的压力，但有一个未来的压力，因为我们的人生好长所以我们要做一个美好的人生的。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "a.。",
+      "predict_sentence": "a.。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "所以我每天想想我的未来，对我来说在我的人生中过了很多难受的事情，理由也是很多，女生，钱，父母",
+      "predict_sentence": "所以我每天想我的未来，对我来说在我的人生中发生了很多难受的事情，理由也是很多，女生，钱，父母"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "家人其中完全没有了对我讲单的事情，我的解决解压力方式没有别的，是了解世界，了解我自己。",
+      "predict_sentence": "家人其中完全没有了对我讲单的事情，我的解决解压力方式没有别的，是了解世界，了解我自己。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "这样的浩就没有难受。",
+      "predict_sentence": "这样的浩就没有难受。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "因为在世界上都事从自我开创的避难如果世界让你感到不足的看法，读书，学习很多就行的不管什么",
+      "predict_sentence": "因为在世界上都是从自我开创的避难如果世界让你感到不足的看法，读书，学习很多就行的不管什么"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "都让我们生长我还不hi道人生是什么什么的但是我能说相这自己没有阿的，所以我没有什么压力都是都自己解的",
+      "predict_sentence": "都让我们生长我还不知道人生是什么什么的但是我能说想这自己没有阿的，所以我没有什么压力都是都自己解的"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "不能受别的，我的型未来一定的美好，我相信",
+      "predict_sentence": "不能受别的，我的型未来定然的美好，我相信"
+    }
+  ]
+}

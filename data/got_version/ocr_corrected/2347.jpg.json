@@ -1,0 +1,125 @@
+{
+  "path": "2347.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "六写作你觉得现在有压力吗？",
+      "predict_sentence": "六写作你觉得现在有压力吗？"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "以前呢？",
+      "predict_sentence": "那以前呢？"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "请谈一谈你面对过什么样的压力，你又是如何解压和解决问题的。",
+      "predict_sentence": "请谈一谈你面对过什么样的压力，你又是如何解压和解决问题的。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "平野晴菜说明：1.题目根据上面的材料自己确定2.字数要求300字以上一杯热牛奶我觉得上高中的时候在我",
+      "predict_sentence": "平野晴菜说明：1.题目根据上面的材料自己确定2.字数要求300字以上一杯热牛奶我觉得上高中的时候在我"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "的人生中感觉压力最人的。",
+      "predict_sentence": "的人生中感觉压力最大的。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "因为当时我觉得如果没考上好大学的活我的人生就经来。",
+      "predict_sentence": "因为当时我觉得如果没考上好大学的活我的人生就尽来。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "现在我已经能理解人生不是这样的。",
+      "predict_sentence": "现在我已经能理解人生并不是这样的。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "但是那个时便我还没你时便，我感觉很不安。",
+      "predict_sentence": "但是那个时候我还没你时便，我感觉很不安。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "有时便，我感觉不安，经常失眠。",
+      "predict_sentence": "有时，我感觉不安，经常失眠。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "如此时我每次都喝一杯热牛奶。",
+      "predict_sentence": "每到这时我都会喝一杯热牛奶。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "热牛奶有提高体温的你用。",
+      "predict_sentence": "热牛奶有提高体温的作用。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "一喝热牛奶就感觉困。",
+      "predict_sentence": "我一喝热牛奶就感觉困。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "另外，我小时便我妈烟经常给我喝一杯热牛奶。",
+      "predict_sentence": "另外，我小时妈便烟经常给我喝一杯热牛奶。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "所以，一杯热牛奶是给我安全感的来西，面且可以减少我的压力。",
+      "predict_sentence": "所以，一杯热牛奶是给我安全感的来信，而且可以减少我的压力。"
+    },
+    {
+      "sentence_id": 14,
+      "source_sentence": "现在感觉压力的时间比上高中的时便减少多了，但是现在也有一些压力。",
+      "predict_sentence": "现在感觉压力的时间比上高中的时候减少多了，但是现在也有一些压力。"
+    },
+    {
+      "sentence_id": 15,
+      "source_sentence": "比如夫于成绩将来的工作要等。",
+      "predict_sentence": "比如夫于事业将来的工作要等。"
+    },
+    {
+      "sentence_id": 16,
+      "source_sentence": "现在有跟以前不一样的压力所以我的解压方法也欢变了。",
+      "predict_sentence": "现在有跟以前不一样的压力所以我的解压方法也变了。"
+    },
+    {
+      "sentence_id": 17,
+      "source_sentence": "第一个是不要一个人考度因为只我自己一个人考度的话，只能爬一个人的爬法。",
+      "predict_sentence": "第一个是不要一个人考虑因为只我自己一个人考虑的话，只能爬一个人的方法。"
+    },
+    {
+      "sentence_id": 18,
+      "source_sentence": "所以我有想考度的时候，尽力和父举或看好朋友一起考度。",
+      "predict_sentence": ""
+    },
+    {
+      "sentence_id": 19,
+      "source_sentence": "另一个是缩整生活节焚。",
+      "predict_sentence": "另一个是缩整生活经费。"
+    },
+    {
+      "sentence_id": 20,
+      "source_sentence": "因为每天的生活是人生的基本事情。",
+      "predict_sentence": "因为每天的生活是人生的基本内容。"
+    },
+    {
+      "sentence_id": 21,
+      "source_sentence": "所以我觉得一定要把它增好.将来我一定会遇到困难，会感觉压力。",
+      "predict_sentence": "所以我觉得一定要把它做好.将来我一定会遇到困难，会感觉压力。"
+    },
+    {
+      "sentence_id": 22,
+      "source_sentence": "但是我已经有很多无服因难的经历。",
+      "predict_sentence": "但是我已经有很多克服困难的经历。"
+    },
+    {
+      "sentence_id": 23,
+      "source_sentence": "所以以后我面对什么事情也可以相信自己。6/6",
+      "predict_sentence": "所以以后我面对什么事情都可以相信自己。6/6"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "path": "2205.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上我以前有很多压力。",
+      "predict_sentence": "说明：1.题目根据上面的材料自己确定2.字数要求300字以上我以前有很多压力。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "因为上大学以后X惯的问题。",
+      "predict_sentence": "因为上大学以后x现的问题。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "第一次来中国。",
+      "predict_sentence": "我第一次来中国。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "吃的也生活的也都是不一样我们的国家。",
+      "predict_sentence": "吃的和生活也都是不一样的国家。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "所以压力很大。",
+      "predict_sentence": "所以压力很大。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "最近我比交压力很小。",
+      "predict_sentence": "最近我比较压力很小。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "我找到了我的解压方式。",
+      "predict_sentence": "我找到了我的缓解方式。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "我喜观听音乐。",
+      "predict_sentence": "我喜欢听音乐。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "所以压力很大的时候听音东。",
+      "predict_sentence": "所以压力很大的时候听音乐。"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "有时候听音乐有一点无聊。",
+      "predict_sentence": "有时候听音乐会有一点无聊。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "我的朋友说6又听音乐又运动的话更好。",
+      "predict_sentence": "我的朋友说6一边听音乐一边运动的话更好。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "我曾来不喜欢动。",
+      "predict_sentence": "我曾经不喜欢运动。"
+    },
+    {
+      "sentence_id": 12,
+      "source_sentence": "但是现在想起来起喜观运动。",
+      "predict_sentence": "但是现在想起来喜欢运动。"
+    },
+    {
+      "sentence_id": 13,
+      "source_sentence": "所以我每次收到压力的时候又听音乐又运动。",
+      "predict_sentence": "所以我每次有压力的时候又听音乐又运动。"
+    }
+  ]
+}

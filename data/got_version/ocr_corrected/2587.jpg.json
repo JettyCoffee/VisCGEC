@@ -1,0 +1,65 @@
+{
+  "path": "2587.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我最喜欢的运动方式运动在我们的生活中是不可或纱的人领们把运动分为两种",
+      "predict_sentence": "我最喜欢的运动方式运动在我们的生活中是不可或少的人们把运动分为两种"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "一种是养生运动另一种是强单健体的运动。",
+      "predict_sentence": "一种是养生运动另一种是强健身体的运动。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "在我生活中，我可是第二种方式。",
+      "predict_sentence": "在平常生活中，我采用第二种方式。"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "可为我年轻还不需要养生存需要强身健体，所以我常常会一个人去健身运动，把自己搬的多鲜佳要得好看又强大。",
+      "predict_sentence": "可为我年轻还不需要养生存需要强身健体，所以我常常会一个人去健身运动，把自己练的多新鲜要得好看又强大。"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "我去健身的频建是一天一次，一次两到三小时。",
+      "predict_sentence": "我去健身的频建是一天一次，一次两到三小时。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "每天反复复做着同一个动作，让我感到坐身体在慢慢变化，让我的年轻的生活过的平平无奇。",
+      "predict_sentence": "每天反复复做着同一个动作，让我感到著身体在慢慢变化，让我的年轻的生活过得平平无奇。"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "可能在我年长时，我可能会选择养生的运动方式和年轻自己相反。",
+      "predict_sentence": "可能在我年长时，我可能会选择养生的运动方式和年轻时自己相反。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "在其中老时做一些养动做结身体健康。",
+      "predict_sentence": "在其中老是做一些有氧运动对身体有益健康。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "人们到一定年时就会把自己年轻时喜欢的动做或者是喜欢的画来画都会来慢慢变化",
+      "predict_sentence": "人们到一定年时就会把自己年轻时喜欢的动作或者是喜欢的画来画都会来慢慢变化"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "时光是带走年轻时的自己把年老的自己望下。",
+      "predict_sentence": "时光是带走年轻时的自己把年老的自己压下。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "年轻时我也喜欢一些有界动动，比如日造球、地球和跳棍等等。",
+      "predict_sentence": "年轻时我也喜欢一些有竞技运动，比如打羽毛球、地球和跳高等等。"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "小时候还喜欢跑步和同学们一起玩无优无律的生珍。",
+      "predict_sentence": "小时候还喜欢跑步和同学们一起玩无优无虑的生珍。"
+    }
+  ]
+}

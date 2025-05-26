@@ -1,0 +1,65 @@
+{
+  "path": "2727.jpg",
+  "corrected_text_list": [
+    {
+      "sentence_id": 0,
+      "source_sentence": "我与购物新方式随着时代的推移、我们生活也发生了翻天覆地的变化，此中我感受最上新的和最深的是四购。",
+      "predict_sentence": "我与购物新方式随着时代的推移、我们生活也发生了翻天覆地的变化，此中我感受最上新的和最深的是网购。"
+    },
+    {
+      "sentence_id": 1,
+      "source_sentence": "我从小太到大就跟其他女生不一样，对购物，逛街一点兴趣都没有，但随着年龄增长这事情就算不喜欢也得去做。",
+      "predict_sentence": "我从小到大就跟其他女生不一样，对购物，逛街一点兴趣都没有，但随着年龄增长这事情就算不喜欢也得去做。"
+    },
+    {
+      "sentence_id": 2,
+      "source_sentence": "长大了需需要参加一些活动呀！",
+      "predict_sentence": "长大了需要参加一些活动呀！"
+    },
+    {
+      "sentence_id": 3,
+      "source_sentence": "开好喜欢化妆品呀！",
+      "predict_sentence": "可是喜欢化妆品呀！"
+    },
+    {
+      "sentence_id": 4,
+      "source_sentence": "等等。",
+      "predict_sentence": "等等。"
+    },
+    {
+      "sentence_id": 5,
+      "source_sentence": "我在蒙古的时候是不知道网购这个东西的后来我初一那年我去了中国才知道网购，但那时候还小，思想也很老",
+      "predict_sentence": "我在蒙古的时候是不知道网购这个东西的后来我初一那年我去了中国才知道网购，但那时候还小，思想也很老"
+    },
+    {
+      "sentence_id": 6,
+      "source_sentence": "并不相信所谓的网购。",
+      "predict_sentence": "并不相信所谓的网购。"
+    },
+    {
+      "sentence_id": 7,
+      "source_sentence": "要起出网购也不是最佳之选，能够但时代的推移网购发展的越来越对了，也成为了我的购物新方式。",
+      "predict_sentence": "要提起网购也不是最佳之选，能够但时代的推移网购发展的越来越对了，也成为了我的购物新方式。"
+    },
+    {
+      "sentence_id": 8,
+      "source_sentence": "网购很适合我这种学生学和我这种不喜欢逛街的人，因为很方便价格也合适，有些人可能会觉得实体店更好",
+      "predict_sentence": "网购很适合我这种学生型和我这种不喜欢逛街的人，因为很方便价格也合适，有些人可能会觉得实体店更好"
+    },
+    {
+      "sentence_id": 9,
+      "source_sentence": "能享受购物的快乐，还能试穿在身上看合不合道，但效果其实都相差不大。",
+      "predict_sentence": "能享受购物的快乐，还能试穿在身上看合不合道，但效果其实都相差不大。"
+    },
+    {
+      "sentence_id": 10,
+      "source_sentence": "有些去逛街是为了享受，而有些人去逛街是不得不需要，而网购正是第二者的救命稻草省力，省时间还省钱",
+      "predict_sentence": "有些去逛街是为了享受，而有些人去逛街是不得不需要，而网购正是第二者的救命稻草省力，省时间还省钱"
+    },
+    {
+      "sentence_id": 11,
+      "source_sentence": "无价你在",
+      "predict_sentence": "无价之宝"
+    }
+  ]
+}
