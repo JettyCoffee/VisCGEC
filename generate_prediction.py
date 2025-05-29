@@ -5,6 +5,9 @@ import re
 from difflib import SequenceMatcher
 import numpy as np
 
+# 全局配置：bbox数量限制
+MAX_BBOX_LIMIT = 1  # 可以通过修改这个数值统一控制所有函数的bbox数量限制
+
 def get_file_id(path):
     """从文件路径中提取ID"""
     base_name = os.path.basename(path)
@@ -83,7 +86,7 @@ def enhanced_bbox_selection(bbox_candidates, corrected_char_positions, strategy=
             if best_bbox and min_distance < 50:  # 距离阈值
                 selected_bboxes.append(best_bbox)
     
-    return selected_bboxes
+    return selected_bboxes[:MAX_BBOX_LIMIT]  # 使用全局变量控制bbox数量
 
 def multi_strategy_bbox_selection(bbox_candidates, corrected_char_positions):
     """
@@ -144,7 +147,7 @@ def multi_strategy_bbox_selection(bbox_candidates, corrected_char_positions):
                     continue
                 break
     
-    return final_bboxes
+    return final_bboxes[:MAX_BBOX_LIMIT]  # 使用全局变量控制bbox数量
 
 def calculate_position_match(char_pos, bbox):
     """计算字符位置与bbox的匹配度"""
@@ -331,7 +334,8 @@ def select_correction_bboxes(correction_chars, all_char_bboxes):
                     if neighbor_bbox not in selected_bboxes:
                         selected_bboxes.append(neighbor_bbox)
     
-    return selected_bboxes
+    # 使用全局变量控制bbox数量限制
+    return selected_bboxes[:MAX_BBOX_LIMIT]
 
 def select_error_bboxes_enhanced(all_char_bboxes, predict_text):
     """
@@ -380,7 +384,7 @@ def select_error_bboxes_enhanced(all_char_bboxes, predict_text):
             seen_positions.add(pos_key)
             unique_bboxes.append(bbox)
     
-    return unique_bboxes[:15]  # 返回最多15个bbox
+    return unique_bboxes[:MAX_BBOX_LIMIT]  # 使用全局变量控制bbox数量
 
 def select_error_bboxes_heuristic(bbox_candidates, predict_text):
     """
@@ -414,7 +418,7 @@ def select_error_bboxes_heuristic(bbox_candidates, predict_text):
             seen_positions.add(pos_key)
             selected_bboxes.append(bbox)
     
-    return selected_bboxes[:15]  # 限制返回数量为15个
+    return selected_bboxes[:MAX_BBOX_LIMIT]  # 使用全局变量控制bbox数量
 
 def main():
     os.makedirs('./output', exist_ok=True)
