@@ -135,8 +135,8 @@ if __name__ == "__main__":
     processor = OCRProcessor(
         input_dir=input_dir,
         output_dir=output_dir,
-        max_workers_per_gpu=6,  # 每个GPU运行4个并行线程
-        gpu_ids=[0, 1]  # 使用两个GPU
+        max_workers_per_gpu=6,
+        gpu_ids=[0, 1]
     )
 
     # 处理所有图片
