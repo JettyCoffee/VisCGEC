@@ -193,7 +193,7 @@ def process_corrected_file(file_path, bbox_path):
     top_bboxes = [{
         "start_x": bbox["start_x"], "end_x": bbox["end_x"],
         "start_y": bbox["start_y"], "end_y": bbox["end_y"]
-    } for bbox in filtered_bboxes[:8]]
+    } for bbox in filtered_bboxes[:16]]
     
     return ' '.join(sentences), top_bboxes
 
@@ -233,10 +233,8 @@ def apply_bbox_nms(bboxes_with_scores, iou_threshold=0.7):
     return filtered
 
 def main():
-    # 确保输出目录存在
     os.makedirs('./output', exist_ok=True)
     
-    # 读取test_data.json
     with open('data/test_data.json', 'r', encoding='utf-8') as f:
         test_data = json.load(f)
     
@@ -245,22 +243,19 @@ def main():
     
     print(f"开始处理 {len(test_data)} 个文件...")
     
-    # 处理每个文件
     for i, item in enumerate(test_data):
-        # 从path中提取ID
         file_id = get_file_id(item['path'])
-        corrected_file_path = os.path.join('data/paddleocr_version/ocr_corrected', file_id + '.json')
-        bbox_file_path = os.path.join('data/paddleocr_version/bbox_washed', file_id + '.json')
+        corrected_file_path = f'data/paddleocr_version/ocr_corrected/{file_id}.json'
+        bbox_file_path = f'data/paddleocr_version/bbox_washed/{file_id}.json'
         
         if os.path.exists(corrected_file_path) and os.path.exists(bbox_file_path):
             try:
-                # 处理文件并获取预测文本和bbox列表
                 predict_text, bounding_box_list = process_corrected_file(corrected_file_path, bbox_file_path)
                 item['predict_text'] = predict_text
                 item['bounding_box_list'] = bounding_box_list
                 
-                # 如果source_text为空，从纠错文件中获取原始文本
-                if not item.get('source_text') and os.path.exists(corrected_file_path):
+                # 如果source_text为空，从纠错文件中获取
+                if not item.get('source_text'):
                     with open(corrected_file_path, 'r', encoding='utf-8') as f:
                         corrected_data = json.load(f)
                         if 'corrected_text_list' in corrected_data:
@@ -268,34 +263,24 @@ def main():
                             item['source_text'] = ' '.join(source_sentences)
                 
                 processed_count += 1
-                total_bbox_count += len(item['bounding_box_list'])
+                total_bbox_count += len(bounding_box_list)
                 
                 if (i + 1) % 10 == 0 or (i + 1) == len(test_data):
-                    print(f"进度: {i + 1}/{len(test_data)} - 处理文件: {file_id}, 文本长度: {len(item['predict_text'])}, bbox数量: {len(item['bounding_box_list'])}")
+                    print(f"进度: {i + 1}/{len(test_data)} - 文件: {file_id}, bbox数量: {len(bounding_box_list)}")
                     
             except Exception as e:
                 print(f"处理文件 {file_id} 时出错: {str(e)}")
-                continue
         else:
-            missing_files = []
-            if not os.path.exists(corrected_file_path):
-                missing_files.append("纠错文件")
-            if not os.path.exists(bbox_file_path):
-                missing_files.append("bbox文件")
-            print(f"跳过文件 {file_id}: 缺少{', '.join(missing_files)}")
+            print(f"跳过文件 {file_id}: 缺少必要文件")
     
     # 保存结果
     with open('./output/predict.json', 'w', encoding='utf-8') as f:
         json.dump(test_data, f, ensure_ascii=False, indent=2)
     
-    # 创建ZIP文件
     with zipfile.ZipFile('./output/prediction.zip', 'w', zipfile.ZIP_DEFLATED) as zipf:
         zipf.write('./output/predict.json', arcname='predict.json')
         
-    print(f"\n处理完成!")
-    print(f"- 成功处理文件数: {processed_count}/{len(test_data)}")
-    print(f"- 总bbox数量: {total_bbox_count}")
-    print(f"- 平均每文件bbox数: {total_bbox_count/max(processed_count, 1):.2f}")
+    print(f"\n处理完成! 成功处理: {processed_count}/{len(test_data)}, 总bbox数: {total_bbox_count}")
 
 if __name__ == '__main__':
     main() 
