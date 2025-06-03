@@ -1,22 +1,19 @@
-# 中文错误纠正系统 (VisCGEC)
+# 中文OCR错误纠正系统 (VisCGEC)
 
-本项目旨在对OCR识别后的中文文本进行自动纠错，提升文本质量。系统集成了多种深度学习模型，支持多种OCR方案，适用于学术研究和实际应用。
+本项目旨在对OCR识别后的中文文本进行自动纠错，提升文本质量。系统集成了深度学习模型，支持多种OCR方案，适用于学术研究和实际应用场景。
 
-## 目录结构
+## 项目介绍
 
-- `chinese_error_corrector.py`         主纠错模型推理脚本
-- `ocr_processor_paddle.py`/`ocr_processor_got.py`  OCR输出处理（PaddleOCR/GOT-OCR）
-- `batch_corrector_paddle.py`/`batch_corrector_got.py`  批量纠错入口
-- `data_washer_paddle.py`/`data_washer_got.py`      数据清洗工具
-- `image_preprocessor.py`              图像预处理
-- `evaluation.py`                      评测脚本
-- `generate_prediction.py`/`generate_prediction_paddle.py`  生成预测结果
-- `merge_predictions.py`               合并多模型预测
-- `test.py`/`test_single_image.py`     测试脚本
-- `visualize_bbox.py`/`visualize_bbox_predict.py`   可视化工具
-- `models/`                            存放各类模型目录（见下文）
-- `data/`                              训练、测试及中间数据
-- `output/`                            预测输出与结果
+VisCGEC（Visual Chinese Grammatical Error Correction）系统采用流水线处理方式，包含图像预处理、OCR识别、字符解析、数据清洗、文本纠错和结果生成等阶段。系统可以自动检测并纠正OCR识别过程中产生的错误，提高文本的准确性和可读性。
+
+## 流水线处理流程
+
+1. 图像预处理：优化图像质量
+2. OCR处理：识别图像中的文本（基于PaddleOCR或其他OCR引擎）
+3. 字符解析：解析OCR输出的结构化数据
+4. 数据清洗：过滤和规范化OCR输出
+5. 文本纠错：应用深度学习模型进行语法和拼写纠错
+6. 生成预测结果：整合纠错后的文本，生成最终输出
 
 ## 环境依赖
 
@@ -26,90 +23,113 @@
 pip install -r requirements.txt
 ```
 
-## 预训练模型下载与目录说明
+主要依赖项包括：
+- transformers
+- paddlepaddle (推荐GPU版本)
+- paddleocr
+- opencv-python
+- numpy
+- beautifulsoup4
+- Pillow
 
-**注意：所有模型文件需手动下载，目录结构如下：**
+## 预训练模型
 
-```
-models/
-  ChineseErrorCorrector2-7B/        # 主纠错大模型（需下载）
-  chinese-roberta-wwm-ext/          # RoBERTa中文预训练模型（需下载）
-  GOT-OCR2_0/                       # GOT-OCR模型（需下载）
-  PaddleOCR/                        # PaddleOCR模型（需下载）
-```
+**系统需要以下预训练模型：**
 
-### 下载方式
+1. **ChineseErrorCorrector2-7B** (文本纠错模型)
+   - 下载地址: https://huggingface.co/twnlp/ChineseErrorCorrector2-7B
+   - 存放位置: `models/ChineseErrorCorrector2-7B/`
 
-- ChineseErrorCorrector2-7B
-  - 下载链接: [模型下载地址]
-  - 解压到 `models/ChineseErrorCorrector2-7B/`
-- chinese-roberta-wwm-ext
-  - 下载链接: [模型下载地址]
-  - 解压到 `models/chinese-roberta-wwm-ext/`
-- GOT-OCR2_0
-  - 下载链接: [模型下载地址]
-  - 解压到 `models/GOT-OCR2_0/`
-- PaddleOCR
-  - 下载链接: [模型下载地址]
-  - 或通过 `git clone https://github.com/PaddlePaddle/PaddleOCR.git models/PaddleOCR` 获取
-- PaddleOCR完整版
-  - 仓库中仅包含精简版核心代码
-  - 完整版可通过 `git clone https://github.com/PaddlePaddle/PaddleOCR.git models/PaddleOCR` 获取
+2. **chinese-roberta-wwm-ext** (分句与文本处理模型)
+   - 下载地址: https://huggingface.co/hfl/chinese-roberta-wwm-ext
+   - 存放位置: `models/chinese-roberta-wwm-ext/`
 
-> 若目录为空，仅保留`.gitkeep`文件用于结构占位。
+3. **PaddleOCR v2.10.0** (OCR识别模型)
+   - 下载地址: https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.10
+   - 安装方式: `pip install paddleocr==2.10.0`
+   - 或克隆仓库: `git clone -b release/2.10 https://github.com/PaddlePaddle/PaddleOCR.git models/PaddleOCR`
 
 ## 快速开始
 
-1. 数据清洗（以PaddleOCR为例）：
+### 完整流水线处理
+
+使用自动化脚本一键执行全流程：
+
+```bash
+bash pipeline.sh
+```
+
+### 单独执行各阶段
+
+1. 图像预处理：
    ```bash
-   python data_washer_paddle.py
+   python image_preproc.py
    ```
-2. 执行批量纠错：
+
+2. OCR处理：
    ```bash
-   python batch_corrector_paddle.py
+   python ocr_processor.py
    ```
-3. 评测结果：
+
+3. 字符解析：
    ```bash
-   python evaluation.py
+   python ocr_char_parser.py
    ```
+
+4. 数据清洗：
+   ```bash
+   python data_washer.py
+   ```
+
+5. 文本纠错：
+   ```bash
+   python batch_corrector.py
+   ```
+
+6. 生成预测结果：
+   ```bash
+   python generate_prediction.py
+   ```
+
+## 目录结构
+
+- `pipeline.sh` - 自动化流水线处理脚本
+- `image_preproc.py` - 图像预处理
+- `ocr_processor.py` - PaddleOCR处理
+- `ocr_char_parser.py` - OCR字符解析
+- `data_washer.py` - 数据清洗
+- `batch_corrector.py` - 批量文本纠错
+- `chinese_error_corrector.py` - 纠错模型调用
+- `generate_prediction.py` - 生成预测结果
+- `models/` - 存放预训练模型
+- `data/` - 存放数据及中间结果
+- `output/` - 输出结果
+- `evaluation_scores/` - 评测结果
 
 ## 数据说明
 
-- `data/` 目录下包含原始图片、OCR输出、纠错结果等。
-- 结构示例：
-  - `test_data.json`/`train_data.json`：主数据集
-  - `paddleocr_version/`、`got_version/`：不同OCR方案下的中间结果
-  - `preprocessed_img/`：预处理图片
+- `data/test_data.json` - 测试数据集
+- `data/preprocessed_img/` - 预处理后的图像
+- `data/paddleocr_version/` - PaddleOCR处理的中间结果
+  - `ocr_output/` - OCR原始输出
+  - `ocr_washed/` - 清洗后的OCR结果
+  - `ocr_corrected/` - 纠错后的结果
+- `output/` - 最终预测结果
 
-## 主要模型说明
+## 项目特点
 
-- **ChineseErrorCorrector2-7B**：基于LLaMA-2的中文纠错大模型
-- **chinese-roberta-wwm-ext**：RoBERTa中文预训练模型，特征提取与初步检测
-- **GOT-OCR2_0**：GOT-OCR识别模型
-- **PaddleOCR**：PaddleOCR识别模型
+- **多阶段流水线**: 从图像到文本纠错的完整处理流程
+- **高精度纠错**: 基于大型预训练模型的文本纠错
+- **模块化设计**: 各阶段可独立执行和优化
+- **多OCR引擎支持**: 支持PaddleOCR等多种OCR引擎
+- **完整评测**: 内置评测工具，支持多种评测指标
 
 ## 注意事项
 
-- 所有大模型需单独下载，见上文链接
-- 仓库中PaddleOCR仅包含精简版核心代码，不包含完整模型
-- 推荐GPU环境，CPU推理速度较慢
-- `models/`目录下仅保留结构，内容需用户自行下载
-- 详细用法请参考各脚本内注释
-
-## GitHub同步说明
-
-本项目使用Git LFS（Large File Storage）管理大文件。但由于模型文件体积巨大，我们在`.gitignore`中排除了所有模型文件，仅保留目录结构。首次克隆后请按照上述指南下载所需模型。
-
-```bash
-# 克隆仓库
-git clone https://github.com/your-username/VisCGEC.git
-# 进入目录
-cd VisCGEC
-# 安装依赖
-pip install -r requirements.txt
-# 下载必要模型
-# ...按照上述指南下载模型文件...
-```
+- 首次使用需下载所有预训练模型
+- 推荐在GPU环境运行，尤其是大模型推理阶段
+- 预处理图像质量会显著影响OCR和纠错效果
+- 详细参数设置请查看各脚本的注释说明
 
 ## 许可证
 
