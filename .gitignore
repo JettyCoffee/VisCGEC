@@ -1,12 +1,8 @@
-# 排除models下的大型模型文件
 models/ChineseErrorCorrector2-7B/*
 !models/ChineseErrorCorrector2-7B/.gitkeep
 
 models/chinese-roberta-wwm-ext/*
 !models/chinese-roberta-wwm-ext/.gitkeep
-
-models/GOT-OCR2_0/*
-!models/GOT-OCR2_0/.gitkeep
 
 # 完全排除PaddleOCR目录
 models/PaddleOCR/

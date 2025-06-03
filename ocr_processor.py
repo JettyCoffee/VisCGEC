@@ -56,7 +56,7 @@ class OCRProcessor:
             env["CUDA_VISIBLE_DEVICES"] = str(gpu_id)
 
             cmd = [
-                "python", "models/PaddleOCR/ppstructure/predict_system_NOTABLE.py",
+                "python", "models/PaddleOCR/ppstructure/predict_system_enhanced.py",
                 f"--image_dir={str(image_path)}",
                 f"--det_model_dir={self.det_model_dir}",
                 f"--rec_model_dir={self.rec_model_dir}",

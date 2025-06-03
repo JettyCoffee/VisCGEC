@@ -32,12 +32,31 @@ VisCGEC（Visual Chinese Grammatical Error Correction）是一个端到端的中
 
 #### 2.2.2 OCR处理模块
 
-**核心文件**: `ocr_processor_paddle.py`
+**核心文件**: `ocr_processor.py`
 
 **功能**:
 - 调用PaddleOCR引擎进行文本识别
 - 提取文本位置信息和识别结果
 - 生成结构化OCR输出数据
+
+**模型配置**:
+- 使用PP-OCRv5服务器端模型提升识别精度
+- 自定义配置的模型路径:
+  ```python
+  det_model_dir="models/PaddleOCR/ppstructure/inference/PP-OCRv5_server_det_infer"
+  rec_model_dir="models/PaddleOCR/ppstructure/inference/PP-OCRv5_server_rec_infer"
+  rec_char_dict_path="models/PaddleOCR/ppocr/utils/ppocrv5_dict.txt"
+  table_model_dir="models/PaddleOCR/ppstructure/inference/ch_ppstructure_mobile_v2.0_SLANet_infer"
+  ```
+- 修改的PaddleOCR预测系统:
+  - 使用自定义的`predict_system_enhanced.py`
+  - 该文件位于`models/PaddleOCR/ppstructure/`目录
+  - 主要修改：将表格区域统一识别为图像区域，避免表格结构识别错误
+
+**性能优化**:
+- 多GPU并行处理
+- 线程池优化批处理性能
+- 自定义词典扩展中文识别能力
 
 **输入**: 预处理后的图像
 **输出**: OCR识别结果（存放于 `data/paddleocr_version/ocr_output/`）
@@ -130,7 +149,7 @@ VisCGEC（Visual Chinese Grammatical Error Correction）是一个端到端的中
 
 - **CPU**: 8核及以上
 - **内存**: 16GB及以上
-- **GPU**: NVIDIA GPU，显存8GB及以上（推荐用于大模型推理）
+- **GPU**: NVIDIA GPU，显存20GB及以上（推荐用于大模型推理）
 - **存储**: 50GB及以上（预训练模型较大）
 
 ### 4.2 部署流程

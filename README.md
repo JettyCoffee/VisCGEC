@@ -23,15 +23,6 @@ VisCGEC（Visual Chinese Grammatical Error Correction）系统采用流水线处
 pip install -r requirements.txt
 ```
 
-主要依赖项包括：
-- transformers
-- paddlepaddle (推荐GPU版本)
-- paddleocr
-- opencv-python
-- numpy
-- beautifulsoup4
-- Pillow
-
 ## 预训练模型
 
 **系统需要以下预训练模型：**
@@ -48,6 +39,46 @@ pip install -r requirements.txt
    - 下载地址: https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.10
    - 安装方式: `pip install paddleocr==2.10.0`
    - 或克隆仓库: `git clone -b release/2.10 https://github.com/PaddlePaddle/PaddleOCR.git models/PaddleOCR`
+   
+   **重要**：本项目使用了经过修改的PaddleOCR模型配置以提升OCR性能，需要下载以下特定模型并进行相应配置：
+   
+   ```bash
+   # 进入PaddleOCR目录
+   cd models/PaddleOCR/ppstructure
+   
+   # 创建推理目录
+   mkdir -p inference && cd inference
+   
+   # 下载PP-OCRv5服务器端检测模型
+   wget https://paddleocr.bj.bcebos.com/PP-OCRv5/chinese/ch_PP-OCRv5_det_server_infer.tar && tar xf ch_PP-OCRv5_det_server_infer.tar
+   # 重命名模型目录
+   mv ch_PP-OCRv5_det_server_infer PP-OCRv5_server_det_infer
+   
+   # 下载PP-OCRv5服务器端识别模型
+   wget https://paddleocr.bj.bcebos.com/PP-OCRv5/chinese/ch_PP-OCRv5_rec_server_infer.tar && tar xf ch_PP-OCRv5_rec_server_infer.tar
+   # 重命名模型目录
+   mv ch_PP-OCRv5_rec_server_infer PP-OCRv5_server_rec_infer
+   
+   # 下载中文表格结构模型
+   wget https://paddleocr.bj.bcebos.com/ppstructure/models/slanet/ch_ppstructure_mobile_v2.0_SLANet_infer.tar && tar xf ch_ppstructure_mobile_v2.0_SLANet_infer.tar
+   
+   # 下载版面分析模型
+   wget https://paddleocr.bj.bcebos.com/ppstructure/models/layout/picodet_lcnet_x1_0_fgd_layout_cdla_infer.tar && tar xf picodet_lcnet_x1_0_fgd_layout_cdla_infer.tar
+   
+   # 返回上级目录
+   cd ../..
+   
+   # 确保字典文件存在于正确位置
+   mkdir -p ppocr/utils
+   cp PaddleOCR_changedfiles/ppocrv5_dict.txt ppocr/utils/
+   
+   # 复制修改后的预测系统文件
+   cp PaddleOCR_changedfiles/predict_system_enhanced.py ppstructure/
+   ```
+   
+   注意：
+   - 必须确保词典文件`ppocrv5_dict.txt`位于`models/PaddleOCR/ppocr/utils/`目录下
+   - 必须确保修改后的`predict_system_enhanced.py`文件位于`models/PaddleOCR/ppstructure/`目录下
 
 ## 快速开始
 
@@ -133,4 +164,6 @@ bash pipeline.sh
 
 ## 许可证
 
-请参阅 LICENSE 文件获取详细信息。
+MIT License
+
+Copyright (c) 2025 Jetty Coffee
